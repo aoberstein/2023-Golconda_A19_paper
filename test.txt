@@ -1,0 +1,5 @@
+#!/bin/bash
+
+test file
+test
+test if x then a
