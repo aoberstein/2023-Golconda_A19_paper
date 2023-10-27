@@ -6,9 +6,10 @@ library("reshape2", quietly = TRUE)
 options("scipen"=100, "digits"=4)
 
 # User defined variables --------------------------------------------------
-ttgFile = "../ttg.tab"
-metadataFile = "../metadata_merged.tab"
-countFile = paste0("../2-limmaGene_TMM/", "GeTMM_allData_TMM_expValues_cpm.tab")
+ttgFile = "/home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/ttg.tab"
+metadataFile = "/home/adam/projects/2022-10-04_EMT-paper/finished/metadata_merged.tab"
+countFile = paste0("/mnt/archive/adam_storage/2022-10-04_EMT-paper/finished/2-limmaGene_TMM/"
+                   ,"GeTMM_allData_TMM_expValues_cpm.tab")
 
 # Capture command line arguments ------------------------------------------
 # args <- commandArgs(trailingOnly = TRUE)
