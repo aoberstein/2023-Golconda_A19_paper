@@ -1,0 +1,3 @@
+study	run	experiment	cell	other	replicate	treament	sample_acc	title	sample_attribute	spots	platform	layout	strategy	SRA
+GSE75035	SRR2919800	SRX1433418	RWPE-1	NA	1	Scr	SRS1164406	GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq	 || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none	7.82M	Illumina HiSeq 2000	P	RNA-Seq	SRA311786
+GSE75035	SRR2919803	SRX1433421	RWPE-1	NA	2	Scr	SRS1164404	GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq	 || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none	6.54M	Illumina HiSeq 2000	P	RNA-Seq	SRA311786

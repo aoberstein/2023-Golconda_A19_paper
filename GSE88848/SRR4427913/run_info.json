@@ -1,0 +1,13 @@
+{
+	"n_targets": 228629,
+	"n_bootstraps": 30,
+	"n_processed": 86067235,
+	"n_pseudoaligned": 68244612,
+	"n_unique": 14500810,
+	"p_pseudoaligned": 79.3,
+	"p_unique": 16.8,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Oct  6 12:46:09 2022",
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR4427913 -b 30 --rf-stranded -t 30 SRR4427913_1.fastq SRR4427913_2.fastq"
+}

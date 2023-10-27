@@ -1,0 +1,60 @@
+      study         run  experiment   cell other replicate  treament
+1 GSE192548 SRR17321383 SRX13496916 MCF10A    NA         1 siControl
+2 GSE192548 SRR17321382 SRX13496917 MCF10A    NA         2 siControl
+3 GSE192548 SRR17321381 SRX13496918 MCF10A    NA         3 siControl
+   sample_acc
+1 SRS11392275
+2 SRS11392276
+3 SRS11392277
+                                                                                    title
+1 GSM5751242: MCF10A-M2 cells transfected with siNT (Replicate #1); Homo sapiens; RNA-Seq
+2 GSM5751243: MCF10A-M2 cells transfected with siNT (Replicate #2); Homo sapiens; RNA-Seq
+3 GSM5751244: MCF10A-M2 cells transfected with siNT (Replicate #3); Homo sapiens; RNA-Seq
+                                                                                                                                                                                                                                            sample_attribute
+1  || source_name: pre-malignant human breast cell line || cell line: MCF10A-M2 || cell type: MCF10A cells (normal human breast epithelial cell line) transformed with HA-Ras || treatment: transfected with non-targeting siRNA (siNT) || genotype: control
+2  || source_name: pre-malignant human breast cell line || cell line: MCF10A-M2 || cell type: MCF10A cells (normal human breast epithelial cell line) transformed with HA-Ras || treatment: transfected with non-targeting siRNA (siNT) || genotype: control
+3  || source_name: pre-malignant human breast cell line || cell line: MCF10A-M2 || cell type: MCF10A cells (normal human breast epithelial cell line) transformed with HA-Ras || treatment: transfected with non-targeting siRNA (siNT) || genotype: control
+   spots    platform layout strategy        SRA
+1 47.74M DNBSEQ-G400      P  RNA-Seq SRA1348288
+2 47.81M DNBSEQ-G400      P  RNA-Seq SRA1348288
+3 47.08M DNBSEQ-G400      P  RNA-Seq SRA1348288
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:52:71"
+[1] "guess: --phred33:58:72"
+[1] "guess: --phred33:42:71"
+[1] "guess: --phred33:53:72"
+[1] "guess: --phred33:41:72"
+[1] "guess: --phred33:37:71"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

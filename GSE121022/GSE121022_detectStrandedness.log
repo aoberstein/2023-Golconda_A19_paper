@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:         run     study experiment   cell other replicate treament sample_acc
+1 SRR7988022 GSE121022 SRX4819712 RWPE-1    NA         1 Parental SRS3894250
+2 SRR7988024 GSE121022 SRX4819713 RWPE-1    NA         2 Parental SRS3894251
+3 SRR7988026 GSE121022 SRX4819714 RWPE-1    NA         3 Parental SRS3894252
+                                           title
+1 GSM3424013: RWPE-1_rep1; Homo sapiens; RNA-Seq
+2 GSM3424014: RWPE-1_rep2; Homo sapiens; RNA-Seq
+3 GSM3424015: RWPE-1_rep3; Homo sapiens; RNA-Seq
+                                                                                                                                                                                      sample_attribute
+1  || source_name: RWPE-1 (ATCC number:CRL-11609) || cell line: RWPE-1 || replicate: 1 || cell type: Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate
+2  || source_name: RWPE-1 (ATCC number:CRL-11609) || cell line: RWPE-1 || replicate: 2 || cell type: Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate
+3  || source_name: RWPE-1 (ATCC number:CRL-11609) || cell line: RWPE-1 || replicate: 3 || cell type: Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate
+   spots    platform layout strategy       SRA     phred
+1  1.23M NextSeq 500      S  RNA-Seq SRA791070 --phred33
+2 43.78M NextSeq 500      S  RNA-Seq SRA791070 --phred33
+3 117.6M NextSeq 500      S  RNA-Seq SRA791070 --phred33
+
+
+Determining strandedness of: SRR7988022 S --phred33
+
+Determining strandedness of: SRR7988024 S --phred33
+
+Determining strandedness of: SRR7988026 S --phred33
+[1] "SRR7988022.SAMPLE.sam"
+[1] "SRR7988024.SAMPLE.sam"
+[1] "SRR7988026.SAMPLE.sam"
+[infer_experiment.py]:SRR7988022 = single-end; F = 0.0116, R = 0.9546
+[1] "[infer_experiment.py]: SRR7988022 --rna-strandness R"
+[infer_experiment.py]:SRR7988024 = single-end; F = 0.0108, R = 0.9587
+[1] "[infer_experiment.py]: SRR7988024 --rna-strandness R"
+[infer_experiment.py]:SRR7988026 = single-end; F = 0.0091, R = 0.9609
+[1] "[infer_experiment.py]: SRR7988026 --rna-strandness R"

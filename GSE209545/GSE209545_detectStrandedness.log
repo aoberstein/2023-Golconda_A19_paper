@@ -1,0 +1,59 @@
+[detectStrandedness] input metadata:          run     study  experiment   cell other replicate treament  sample_acc
+1 SRR20414481 GSE209545 SRX16447097 MCF10A    NA         3 Parental SRS14083815
+2 SRR20414482 GSE209545 SRX16447096 MCF10A    NA         2 Parental SRS14083814
+3 SRR20414483 GSE209545 SRX16447095 MCF10A    NA         1 Parental SRS14083813
+4 SRR20414484 GSE209545 SRX16447094 MCF10A    NA         3   Vector SRS14083812
+5 SRR20414485 GSE209545 SRX16447093 MCF10A    NA         2   Vector SRS14083810
+6 SRR20414486 GSE209545 SRX16447092 MCF10A    NA         1   Vector SRS14083811
+                                                                 title
+1      GSM6376713: Parental biol rep 3 [M10AP3]; Homo sapiens; RNA-Seq
+2      GSM6376712: Parental biol rep 2 [M10AP2]; Homo sapiens; RNA-Seq
+3      GSM6376711: Parental biol rep 1 [M10AP1]; Homo sapiens; RNA-Seq
+4 GSM6376710: Empty vector biol rep 3 [M10AEV3]; Homo sapiens; RNA-Seq
+5 GSM6376709: Empty vector biol rep 2 [M10AEV2]; Homo sapiens; RNA-Seq
+6 GSM6376708: Empty vector biol rep 1 [M10AEV1]; Homo sapiens; RNA-Seq
+                                                                                                                 sample_attribute
+1  || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: Parental || treatment: none
+2  || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: Parental || treatment: none
+3  || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: Parental || treatment: none
+4        || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: EV || treatment: none
+5        || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: EV || treatment: none
+6        || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: EV || treatment: none
+   spots              platform layout strategy        SRA     phred
+1 56.82M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522 --phred33
+2 78.33M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522 --phred33
+3 69.18M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522 --phred33
+4 65.58M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522 --phred33
+5 67.23M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522 --phred33
+6 70.14M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522 --phred33
+
+
+Determining strandedness of: SRR20414481 P --phred33
+
+Determining strandedness of: SRR20414482 P --phred33
+
+Determining strandedness of: SRR20414483 P --phred33
+
+Determining strandedness of: SRR20414484 P --phred33
+
+Determining strandedness of: SRR20414485 P --phred33
+
+Determining strandedness of: SRR20414486 P --phred33
+[1] "SRR20414481.SAMPLE.sam"
+[1] "SRR20414482.SAMPLE.sam"
+[1] "SRR20414483.SAMPLE.sam"
+[1] "SRR20414484.SAMPLE.sam"
+[1] "SRR20414485.SAMPLE.sam"
+[1] "SRR20414486.SAMPLE.sam"
+[infer_experiment.py]: SRR20414483 = paired-end; F = 0.0106, R = 0.9559
+[1] "[infer_experiment.py]: SRR20414483 --rna-strandness RF"
+[infer_experiment.py]: SRR20414485 = paired-end; F = 0.0110, R = 0.9520
+[1] "[infer_experiment.py]: SRR20414485 --rna-strandness RF"
+[infer_experiment.py]: SRR20414486 = paired-end; F = 0.0103, R = 0.9531
+[1] "[infer_experiment.py]: SRR20414486 --rna-strandness RF"
+[infer_experiment.py]: SRR20414482 = paired-end; F = 0.0103, R = 0.9521
+[1] "[infer_experiment.py]: SRR20414482 --rna-strandness RF"
+[infer_experiment.py]: SRR20414484 = paired-end; F = 0.0102, R = 0.9542
+[1] "[infer_experiment.py]: SRR20414484 --rna-strandness RF"
+[infer_experiment.py]: SRR20414481 = paired-end; F = 0.0109, R = 0.9530
+[1] "[infer_experiment.py]: SRR20414481 --rna-strandness RF"

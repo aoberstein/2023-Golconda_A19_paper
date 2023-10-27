@@ -1,0 +1,244 @@
+[1] "SRR8595046" "SRR8595047" "SRR8595048"
+[1] "SRR8595046"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR8595046.sra SRR8595046"
+[1] "SRR8595047"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR8595047.sra SRR8595047"
+[1] "SRR8595048"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR8595048.sra SRR8595048"
+Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039433 READS because READLEN < 1 Read 3039433 spots for SRR8595046.sra Written 3039433 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra Rejected 3039424 READS because READLEN < 1 Read 3039424 spots for SRR8595046.sra Written 3039424 spots for SRR8595046.sra
+
+Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296516 READS because READLEN < 1 Read 3296516 spots for SRR8595047.sra Written 3296516 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra Rejected 3296502 READS because READLEN < 1 Read 3296502 spots for SRR8595047.sra Written 3296502 spots for SRR8595047.sra
+
+Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656416 READS because READLEN < 1 Read 2656416 spots for SRR8595048.sra Written 2656416 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra Rejected 2656395 READS because READLEN < 1 Read 2656395 spots for SRR8595048.sra Written 2656395 spots for SRR8595048.sra
+
+      study        run experiment   cell   other replicate treament sample_acc
+1 GSE126799 SRR8595046 SRX5395132 MCF10A PBS_BSA         1  Control SRS4382070
+2 GSE126799 SRR8595047 SRX5395133 MCF10A PBS_BSA         2  Control SRS4382071
+3 GSE126799 SRR8595048 SRX5395134 MCF10A PBS_BSA         3  Control SRS4382072
+                                                         title
+1 GSM3613448: AI011_MCF10A_Control_rep1; Homo sapiens; RNA-Seq
+2 GSM3613449: AI011_MCF10A_Control_rep2; Homo sapiens; RNA-Seq
+3 GSM3613450: AI011_MCF10A_Control_rep3; Homo sapiens; RNA-Seq
+                                                                                                  sample_attribute
+1  || source_name: MCF-10A cell line || sample_file_prefix: C1_S1 || treatment: Control || technical replicates: 1
+2  || source_name: MCF-10A cell line || sample_file_prefix: C2_S2 || treatment: Control || technical replicates: 1
+3  || source_name: MCF-10A cell line || sample_file_prefix: C3_S3 || treatment: Control || technical replicates: 1
+   spots    platform layout strategy       SRA
+1 91.18M NextSeq 500      S  RNA-Seq SRA850688
+2  98.9M NextSeq 500      S  RNA-Seq SRA850688
+3 79.69M NextSeq 500      S  RNA-Seq SRA850688
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 3, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 3, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 3, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 3, numResults: 3, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:         run     study experiment   cell   other replicate treament sample_acc
+1 SRR8595046 GSE126799 SRX5395132 MCF10A PBS_BSA         1  Control SRS4382070
+2 SRR8595047 GSE126799 SRX5395133 MCF10A PBS_BSA         2  Control SRS4382071
+3 SRR8595048 GSE126799 SRX5395134 MCF10A PBS_BSA         3  Control SRS4382072
+                                                         title
+1 GSM3613448: AI011_MCF10A_Control_rep1; Homo sapiens; RNA-Seq
+2 GSM3613449: AI011_MCF10A_Control_rep2; Homo sapiens; RNA-Seq
+3 GSM3613450: AI011_MCF10A_Control_rep3; Homo sapiens; RNA-Seq
+                                                                                                  sample_attribute
+1  || source_name: MCF-10A cell line || sample_file_prefix: C1_S1 || treatment: Control || technical replicates: 1
+2  || source_name: MCF-10A cell line || sample_file_prefix: C2_S2 || treatment: Control || technical replicates: 1
+3  || source_name: MCF-10A cell line || sample_file_prefix: C3_S3 || treatment: Control || technical replicates: 1
+   spots    platform layout strategy       SRA     phred
+1 91.18M NextSeq 500      S  RNA-Seq SRA850688 --phred33
+2  98.9M NextSeq 500      S  RNA-Seq SRA850688 --phred33
+3 79.69M NextSeq 500      S  RNA-Seq SRA850688 --phred33
+
+
+Determining strandedness of: SRR8595046 S --phred33
+
+Determining strandedness of: SRR8595047 S --phred33
+
+Determining strandedness of: SRR8595048 S --phred33
+[1] "SRR8595046.SAMPLE.sam"
+[1] "SRR8595047.SAMPLE.sam"
+[1] "SRR8595048.SAMPLE.sam"
+[infer_experiment.py]:SRR8595046 = single-end; F = 0.0312, R = 0.9303
+[1] "[infer_experiment.py]: SRR8595046 --rna-strandness R"
+[infer_experiment.py]:SRR8595048 = single-end; F = 0.0210, R = 0.9400
+[1] "[infer_experiment.py]: SRR8595048 --rna-strandness R"
+[infer_experiment.py]:SRR8595047 = single-end; F = 0.0241, R = 0.9379
+[1] "[infer_experiment.py]: SRR8595047 --rna-strandness R"
+         run     study experiment   cell   other replicate treament sample_acc
+1 SRR8595046 GSE126799 SRX5395132 MCF10A PBS_BSA         1  Control SRS4382070
+2 SRR8595047 GSE126799 SRX5395133 MCF10A PBS_BSA         2  Control SRS4382071
+3 SRR8595048 GSE126799 SRX5395134 MCF10A PBS_BSA         3  Control SRS4382072
+                                                         title
+1 GSM3613448: AI011_MCF10A_Control_rep1; Homo sapiens; RNA-Seq
+2 GSM3613449: AI011_MCF10A_Control_rep2; Homo sapiens; RNA-Seq
+3 GSM3613450: AI011_MCF10A_Control_rep3; Homo sapiens; RNA-Seq
+                                                                                                  sample_attribute
+1  || source_name: MCF-10A cell line || sample_file_prefix: C1_S1 || treatment: Control || technical replicates: 1
+2  || source_name: MCF-10A cell line || sample_file_prefix: C2_S2 || treatment: Control || technical replicates: 1
+3  || source_name: MCF-10A cell line || sample_file_prefix: C3_S3 || treatment: Control || technical replicates: 1
+   spots    platform layout strategy       SRA     phred             strand
+1 91.18M NextSeq 500      S  RNA-Seq SRA850688 --phred33 --rna-strandness R
+2  98.9M NextSeq 500      S  RNA-Seq SRA850688 --phred33 --rna-strandness R
+3 79.69M NextSeq 500      S  RNA-Seq SRA850688 --phred33 --rna-strandness R
+Counting SRR8595046 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8595046 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR8595046_1.fastqCounting SRR8595047 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8595047 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR8595047_1.fastqCounting SRR8595048 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8595048 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR8595048_1.fastqloop cycle COMPLETE
+[1] "metadata prefix: GSE131701"
+[1] "metadata:"
+      study        run experiment   cell other replicate  treament sample_acc
+1 GSE131701 SRR9114344 SRX5888602 MCF10A    NA         1 sgControl SRS4810759
+2 GSE131701 SRR9114345 SRX5888603 MCF10A    NA         2 sgControl SRS4810760
+                                                title
+1 GSM3814228: 10a-control_rep1; Homo sapiens; RNA-Seq
+2 GSM3814229: 10a-control_rep2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                 sample_attribute
+1  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+2  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+   spots   platform layout strategy       SRA
+1 22.49M BGISEQ-500      P  RNA-Seq SRA889904
+2 22.75M BGISEQ-500      P  RNA-Seq SRA889904
+[1] "working dir: /home/adam/projects/2022-10-04_EMT-paper/GSE131701"
+[1] "SRR9114344" "SRR9114345"
+[1] "SRR9114344"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR9114344.sra SRR9114344"
+[1] "SRR9114345"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR9114345.sra SRR9114345"
+Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra Read 749523 spots for SRR9114344.sra Written 749523 spots for SRR9114344.sra
+
+Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758330 spots for SRR9114345.sra Written 758330 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra Read 758312 spots for SRR9114345.sra Written 758312 spots for SRR9114345.sra
+
+      study        run experiment   cell other replicate  treament sample_acc
+1 GSE131701 SRR9114344 SRX5888602 MCF10A    NA         1 sgControl SRS4810759
+2 GSE131701 SRR9114345 SRX5888603 MCF10A    NA         2 sgControl SRS4810760
+                                                title
+1 GSM3814228: 10a-control_rep1; Homo sapiens; RNA-Seq
+2 GSM3814229: 10a-control_rep2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                 sample_attribute
+1  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+2  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+   spots   platform layout strategy       SRA
+1 22.49M BGISEQ-500      P  RNA-Seq SRA889904
+2 22.75M BGISEQ-500      P  RNA-Seq SRA889904
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:         run     study experiment   cell other replicate  treament sample_acc
+1 SRR9114344 GSE131701 SRX5888602 MCF10A    NA         1 sgControl SRS4810759
+2 SRR9114345 GSE131701 SRX5888603 MCF10A    NA         2 sgControl SRS4810760
+                                                title
+1 GSM3814228: 10a-control_rep1; Homo sapiens; RNA-Seq
+2 GSM3814229: 10a-control_rep2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                 sample_attribute
+1  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+2  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+   spots   platform layout strategy       SRA     phred
+1 22.49M BGISEQ-500      P  RNA-Seq SRA889904 --phred33
+2 22.75M BGISEQ-500      P  RNA-Seq SRA889904 --phred33
+
+
+Determining strandedness of: SRR9114344 P --phred33
+
+Determining strandedness of: SRR9114345 P --phred33
+[1] "SRR9114344.SAMPLE.sam"
+[1] "SRR9114345.SAMPLE.sam"
+[infer_experiment.py]: SRR9114345 = paired-end; F = 0.4864, R = 0.4773
+[1] "[infer_experiment.py]: SRR9114345 unstranded"
+[infer_experiment.py]: SRR9114344 = paired-end; F = 0.4766, R = 0.4856
+[1] "[infer_experiment.py]: SRR9114344 unstranded"
+         run     study experiment   cell other replicate  treament sample_acc
+1 SRR9114344 GSE131701 SRX5888602 MCF10A    NA         1 sgControl SRS4810759
+2 SRR9114345 GSE131701 SRX5888603 MCF10A    NA         2 sgControl SRS4810760
+                                                title
+1 GSM3814228: 10a-control_rep1; Homo sapiens; RNA-Seq
+2 GSM3814229: 10a-control_rep2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                 sample_attribute
+1  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+2  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+   spots   platform layout strategy       SRA     phred     strand
+1 22.49M BGISEQ-500      P  RNA-Seq SRA889904 --phred33 unstranded
+2 22.75M BGISEQ-500      P  RNA-Seq SRA889904 --phred33 unstranded
+Counting SRR9114344 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR9114344 -b 30  -t 30   SRR9114344_1.fastq SRR9114344_2.fastqCounting SRR9114345 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR9114345 -b 30  -t 30   SRR9114345_1.fastq SRR9114345_2.fastqloop cycle COMPLETE
+[1] "metadata prefix: GSE152410"
+[1] "metadata:"
+      study         run experiment   cell other replicate treament sample_acc
+1 GSE152410 SRR12006109 SRX8539285 MCF10A   PBS         1  Control SRS6834102
+2 GSE152410 SRR12006110 SRX8539286 MCF10A   PBS         2  Control SRS6834103
+3 GSE152410 SRR12006111 SRX8539287 MCF10A   PBS         3  Control SRS6834104
+4 GSE152410 SRR12006112 SRX8539288 MCF10A   PBS         4  Control SRS6834105
+                                                  title
+1 GSM4614840: ctrl_0_C1_A_RNAseq; Homo sapiens; RNA-Seq
+2 GSM4614841: ctrl_0_C1_B_RNAseq; Homo sapiens; RNA-Seq
+3 GSM4614842: ctrl_0_C1_C_RNAseq; Homo sapiens; RNA-Seq
+4 GSM4614843: ctrl_0_C1_D_RNAseq; Homo sapiens; RNA-Seq
+                                                                                                                                                               sample_attribute
+1  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+2  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+3  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+4  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+   spots            platform layout strategy        SRA
+1 57.58M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+2 58.89M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+3 62.49M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+4 64.19M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+[1] "working dir: /home/adam/projects/2022-10-04_EMT-paper/GSE152410"
+[1] "SRR12006109" "SRR12006110" "SRR12006111" "SRR12006112"
+[1] "SRR12006109"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR12006109.sra SRR12006109"
+[1] "SRR12006110"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR12006110.sra SRR12006110"
+[1] "SRR12006111"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR12006111.sra SRR12006111"
+[1] "SRR12006112"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR12006112.sra SRR12006112"
+Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919193 spots for SRR12006109.sra Written 1919193 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166 spots for SRR12006109.sra Written 1919166 spots for SRR12006109.sra Read 1919166

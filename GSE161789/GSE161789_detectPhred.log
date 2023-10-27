@@ -1,0 +1,42 @@
+      study         run experiment cell other replicate treament sample_acc
+1 GSE161789 SRR13084732 SRX9531428 MRC5    NA         1 Parental SRS7737955
+2 GSE161789 SRR13084733 SRX9531429 MRC5    NA         2 Parental SRS7737956
+                                                 title
+1 GSM4914513: MRC5-RNA-CON rep1; Homo sapiens; RNA-Seq
+2 GSM4914514: MRC5-RNA-CON rep2; Homo sapiens; RNA-Seq
+                                                                                                                        sample_attribute
+1  || source_name: Fibroblast cells || cell line: MRC5 || cell type: normal lung tissue-derived fibroblast cells || treatment: untreated
+2  || source_name: Fibroblast cells || cell line: MRC5 || cell type: normal lung tissue-derived fibroblast cells || treatment: untreated
+   spots              platform layout strategy        SRA
+1 23.19M Illumina NovaSeq 6000      P  RNA-Seq SRA1161352
+2 22.19M Illumina NovaSeq 6000      P  RNA-Seq SRA1161352
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:58:70"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

@@ -1,0 +1,56 @@
+      study         run experiment   cell other replicate treament sample_acc
+1 GSE157858 SRR12626558 SRX9108866 MCF10A    NA         1     DMSO SRS7352262
+2 GSE157858 SRR12626559 SRX9108867 MCF10A    NA         2     DMSO SRS7352263
+3 GSE157858 SRR12626560 SRX9108868 MCF10A    NA         3     DMSO SRS7352264
+                                                      title
+1 GSM4776926: MCF10A-parental-DMSO-1; Homo sapiens; RNA-Seq
+2 GSM4776927: MCF10A-parental-DMSO-2; Homo sapiens; RNA-Seq
+3 GSM4776928: MCF10A-parental-DMSO-3; Homo sapiens; RNA-Seq
+                                                                                                                       sample_attribute
+1  || source_name: MCF10A Parental R1 DMSO 4 hours || cell line: MCF10A || condition: parental || treatment: DMSO || genotype: wildtype
+2  || source_name: MCF10A Parental R2 DMSO 4 hours || cell line: MCF10A || condition: parental || treatment: DMSO || genotype: wildtype
+3  || source_name: MCF10A Parental R3 DMSO 4 hours || cell line: MCF10A || condition: parental || treatment: DMSO || genotype: wildtype
+    spots            platform layout strategy        SRA
+1 200.76M Illumina HiSeq 2000      P  RNA-Seq SRA1124415
+2 177.67M Illumina HiSeq 2000      P  RNA-Seq SRA1124415
+3 164.55M Illumina HiSeq 2000      P  RNA-Seq SRA1124415
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:58:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "guess: --phred33:35:70"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

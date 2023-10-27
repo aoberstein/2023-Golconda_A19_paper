@@ -1,0 +1,689 @@
+[1] "SRR10575172" "SRR10575173" "SRR10575174"
+[1] "SRR10575172"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR10575172.sra SRR10575172"
+[1] "SRR10575173"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR10575173.sra SRR10575173"
+[1] "SRR10575174"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR10575174.sra SRR10575174"
+Read 1879262 spots for SRR10575172.sra Written 1879262 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra Read 1879256 spots for SRR10575172.sra Written 1879256 spots for SRR10575172.sra
+
+Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144058 spots for SRR10575173.sra Written 2144058 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra Read 2144041 spots for SRR10575173.sra Written 2144041 spots for SRR10575173.sra
+
+Read 2069889 spots for SRR10575174.sra Written 2069889 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra Read 2069887 spots for SRR10575174.sra Written 2069887 spots for SRR10575174.sra
+
+      study         run experiment   cell other replicate treament sample_acc
+1 GSE141323 SRR10575172 SRX7256472 RWPE-1    NA         1 Parental SRS5753954
+2 GSE141323 SRR10575173 SRX7256473 RWPE-1    NA         2 Parental SRS5753955
+3 GSE141323 SRR10575174 SRX7256474 RWPE-1    NA         3 Parental SRS5753956
+                                      title
+1 GSM4200853: RWPE 1; Homo sapiens; RNA-Seq
+2 GSM4200854: RWPE 2; Homo sapiens; RNA-Seq
+3 GSM4200855: RWPE 3; Homo sapiens; RNA-Seq
+                                                                                                   sample_attribute
+1  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+2  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+3  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+   spots            platform layout strategy        SRA
+1 56.38M Illumina HiSeq 2000      P  RNA-Seq SRA1005664
+2 64.32M Illumina HiSeq 2000      P  RNA-Seq SRA1005664
+3  62.1M Illumina HiSeq 2000      P  RNA-Seq SRA1005664
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:45:74"
+[1] "guess: --phred33:45:74"
+[1] "guess: --phred33:45:74"
+[1] "guess: --phred33:55:74"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:45:74"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:          run     study experiment   cell other replicate treament sample_acc
+1 SRR10575172 GSE141323 SRX7256472 RWPE-1    NA         1 Parental SRS5753954
+2 SRR10575173 GSE141323 SRX7256473 RWPE-1    NA         2 Parental SRS5753955
+3 SRR10575174 GSE141323 SRX7256474 RWPE-1    NA         3 Parental SRS5753956
+                                      title
+1 GSM4200853: RWPE 1; Homo sapiens; RNA-Seq
+2 GSM4200854: RWPE 2; Homo sapiens; RNA-Seq
+3 GSM4200855: RWPE 3; Homo sapiens; RNA-Seq
+                                                                                                   sample_attribute
+1  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+2  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+3  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+   spots            platform layout strategy        SRA     phred
+1 56.38M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+2 64.32M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+3  62.1M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+
+
+Determining strandedness of: SRR10575172 P --phred33
+
+Determining strandedness of: SRR10575173 P --phred33
+
+Determining strandedness of: SRR10575174 P --phred33
+[1] "SRR10575172.SAMPLE.sam"
+[1] "SRR10575173.SAMPLE.sam"
+[1] "SRR10575174.SAMPLE.sam"
+[infer_experiment.py]: SRR10575172 = paired-end; F = 0.0138, R = 0.8928
+[1] "[infer_experiment.py]: SRR10575172 --rna-strandness RF"
+[infer_experiment.py]: SRR10575173 = paired-end; F = 0.0114, R = 0.9633
+[1] "[infer_experiment.py]: SRR10575173 --rna-strandness RF"
+[infer_experiment.py]: SRR10575174 = paired-end; F = 0.0151, R = 0.9603
+[1] "[infer_experiment.py]: SRR10575174 --rna-strandness RF"
+          run     study experiment   cell other replicate treament sample_acc
+1 SRR10575172 GSE141323 SRX7256472 RWPE-1    NA         1 Parental SRS5753954
+2 SRR10575173 GSE141323 SRX7256473 RWPE-1    NA         2 Parental SRS5753955
+3 SRR10575174 GSE141323 SRX7256474 RWPE-1    NA         3 Parental SRS5753956
+                                      title
+1 GSM4200853: RWPE 1; Homo sapiens; RNA-Seq
+2 GSM4200854: RWPE 2; Homo sapiens; RNA-Seq
+3 GSM4200855: RWPE 3; Homo sapiens; RNA-Seq
+                                                                                                   sample_attribute
+1  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+2  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+3  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+   spots            platform layout strategy        SRA     phred
+1 56.38M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+2 64.32M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+3  62.1M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+               strand
+1 --rna-strandness RF
+2 --rna-strandness RF
+3 --rna-strandness RF
+Counting SRR10575172 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10575172 -b 30 --rf-stranded -t 30   SRR10575172_1.fastq SRR10575172_2.fastqCounting SRR10575173 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10575173 -b 30 --rf-stranded -t 30   SRR10575173_1.fastq SRR10575173_2.fastqCounting SRR10575174 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10575174 -b 30 --rf-stranded -t 30   SRR10575174_1.fastq SRR10575174_2.fastqloop cycle COMPLETE
+[1] "metadata prefix: GSE196634"
+[1] "metadata:"
+      study         run  experiment   cell other replicate treament  sample_acc
+1 GSE196634 SRR18004601 SRX14160182 RWPE-1    NA         1 Normoxia SRS11985355
+2 GSE196634 SRR18004600 SRX14160183 RWPE-1    NA         2 Normoxia SRS11985356
+3 GSE196634 SRR18004599 SRX14160184 RWPE-1    NA         3 Normoxia SRS11985357
+                                                   title
+1 GSM5897101: RWPE1 Normoxia rep1; Homo sapiens; RNA-Seq
+2 GSM5897102: RWPE1 Normoxia rep2; Homo sapiens; RNA-Seq
+3 GSM5897103: RWPE1 Normoxia rep3; Homo sapiens; RNA-Seq
+                                                                                                        sample_attribute
+1  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+2  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+3  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+   spots    platform layout strategy        SRA
+1 34.55M NextSeq 500      S  RNA-Seq SRA1372027
+2 29.83M NextSeq 500      S  RNA-Seq SRA1372027
+3 33.98M NextSeq 500      S  RNA-Seq SRA1372027
+[1] "working dir: /home/adam/projects/2022-10-04_EMT-paper/GSE196634"
+[1] "SRR18004601" "SRR18004600" "SRR18004599"
+[1] "SRR18004601"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR18004601.sra SRR18004601"
+[1] "SRR18004600"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR18004600.sra SRR18004600"
+[1] "SRR18004599"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR18004599.sra SRR18004599"
+Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra Read 1132822 spots for SRR18004599.sra Written 1132822 spots for SRR18004599.sra Read 1132814 spots for SRR18004599.sra Written 1132814 spots for SRR18004599.sra
+
+Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994416 spots for SRR18004600.sra Written 994416 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra Read 994403 spots for SRR18004600.sra Written 994403 spots for SRR18004600.sra
+
+Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151688 spots for SRR18004601.sra Written 1151688 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra Read 1151684 spots for SRR18004601.sra Written 1151684 spots for SRR18004601.sra
+
+      study         run  experiment   cell other replicate treament  sample_acc
+1 GSE196634 SRR18004601 SRX14160182 RWPE-1    NA         1 Normoxia SRS11985355
+2 GSE196634 SRR18004600 SRX14160183 RWPE-1    NA         2 Normoxia SRS11985356
+3 GSE196634 SRR18004599 SRX14160184 RWPE-1    NA         3 Normoxia SRS11985357
+                                                   title
+1 GSM5897101: RWPE1 Normoxia rep1; Homo sapiens; RNA-Seq
+2 GSM5897102: RWPE1 Normoxia rep2; Homo sapiens; RNA-Seq
+3 GSM5897103: RWPE1 Normoxia rep3; Homo sapiens; RNA-Seq
+                                                                                                        sample_attribute
+1  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+2  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+3  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+   spots    platform layout strategy        SRA
+1 34.55M NextSeq 500      S  RNA-Seq SRA1372027
+2 29.83M NextSeq 500      S  RNA-Seq SRA1372027
+3 33.98M NextSeq 500      S  RNA-Seq SRA1372027
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 3, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 3, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 3, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 3, numResults: 3, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:47:69"
+[1] "guess: --phred33:54:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:          run     study  experiment   cell other replicate treament  sample_acc
+1 SRR18004599 GSE196634 SRX14160184 RWPE-1    NA         3 Normoxia SRS11985357
+2 SRR18004600 GSE196634 SRX14160183 RWPE-1    NA         2 Normoxia SRS11985356
+3 SRR18004601 GSE196634 SRX14160182 RWPE-1    NA         1 Normoxia SRS11985355
+                                                   title
+1 GSM5897103: RWPE1 Normoxia rep3; Homo sapiens; RNA-Seq
+2 GSM5897102: RWPE1 Normoxia rep2; Homo sapiens; RNA-Seq
+3 GSM5897101: RWPE1 Normoxia rep1; Homo sapiens; RNA-Seq
+                                                                                                        sample_attribute
+1  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+2  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+3  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+   spots    platform layout strategy        SRA     phred
+1 33.98M NextSeq 500      S  RNA-Seq SRA1372027 --phred33
+2 29.83M NextSeq 500      S  RNA-Seq SRA1372027 --phred33
+3 34.55M NextSeq 500      S  RNA-Seq SRA1372027 --phred33
+
+
+Determining strandedness of: SRR18004599 S --phred33
+
+Determining strandedness of: SRR18004600 S --phred33
+
+Determining strandedness of: SRR18004601 S --phred33
+[1] "SRR18004599.SAMPLE.sam"
+[1] "SRR18004600.SAMPLE.sam"
+[1] "SRR18004601.SAMPLE.sam"
+[infer_experiment.py]:SRR18004601 = single-end; F = 0.0112, R = 0.9573
+[1] "[infer_experiment.py]: SRR18004601 --rna-strandness R"
+[infer_experiment.py]:SRR18004599 = single-end; F = 0.0102, R = 0.9601
+[1] "[infer_experiment.py]: SRR18004599 --rna-strandness R"
+[infer_experiment.py]:SRR18004600 = single-end; F = 0.0101, R = 0.9585
+[1] "[infer_experiment.py]: SRR18004600 --rna-strandness R"
+          run     study  experiment   cell other replicate treament  sample_acc
+1 SRR18004599 GSE196634 SRX14160184 RWPE-1    NA         3 Normoxia SRS11985357
+2 SRR18004600 GSE196634 SRX14160183 RWPE-1    NA         2 Normoxia SRS11985356
+3 SRR18004601 GSE196634 SRX14160182 RWPE-1    NA         1 Normoxia SRS11985355
+                                                   title
+1 GSM5897103: RWPE1 Normoxia rep3; Homo sapiens; RNA-Seq
+2 GSM5897102: RWPE1 Normoxia rep2; Homo sapiens; RNA-Seq
+3 GSM5897101: RWPE1 Normoxia rep1; Homo sapiens; RNA-Seq
+                                                                                                        sample_attribute
+1  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+2  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+3  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+   spots    platform layout strategy        SRA     phred             strand
+1 33.98M NextSeq 500      S  RNA-Seq SRA1372027 --phred33 --rna-strandness R
+2 29.83M NextSeq 500      S  RNA-Seq SRA1372027 --phred33 --rna-strandness R
+3 34.55M NextSeq 500      S  RNA-Seq SRA1372027 --phred33 --rna-strandness R
+Counting SRR18004599 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR18004599 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR18004599_1.fastqCounting SRR18004600 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR18004600 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR18004600_1.fastqCounting SRR18004601 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR18004601 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR18004601_1.fastqloop cycle COMPLETE
+[1] "metadata prefix: GSE75035"
+[1] "metadata:"
+     study        run experiment   cell other replicate treament sample_acc
+1 GSE75035 SRR2919800 SRX1433418 RWPE-1    NA         1      Scr SRS1164406
+2 GSE75035 SRR2919803 SRX1433421 RWPE-1    NA         2      Scr SRS1164404
+                                            title
+1 GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq
+2 GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq
+                                                                                                                                            sample_attribute
+1  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+2  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+  spots            platform layout strategy       SRA
+1 7.82M Illumina HiSeq 2000      P  RNA-Seq SRA311786
+2 6.54M Illumina HiSeq 2000      P  RNA-Seq SRA311786
+[1] "working dir: /home/adam/projects/2022-10-04_EMT-paper/GSE75035"
+[1] "SRR2919800" "SRR2919803"
+[1] "SRR2919800"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR2919800.sra SRR2919800"
+[1] "SRR2919803"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR2919803.sra SRR2919803"
+Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra Read 260766 spots for SRR2919800.sra Written 260766 spots for SRR2919800.sra Read 260765 spots for SRR2919800.sra Written 260765 spots for SRR2919800.sra
+
+Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra Read 218130 spots for SRR2919803.sra Written 218130 spots for SRR2919803.sra Read 218114 spots for SRR2919803.sra Written 218114 spots for SRR2919803.sra
+
+     study        run experiment   cell other replicate treament sample_acc
+1 GSE75035 SRR2919800 SRX1433418 RWPE-1    NA         1      Scr SRS1164406
+2 GSE75035 SRR2919803 SRX1433421 RWPE-1    NA         2      Scr SRS1164404
+                                            title
+1 GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq
+2 GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq
+                                                                                                                                            sample_attribute
+1  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+2  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+  spots            platform layout strategy       SRA
+1 7.82M Illumina HiSeq 2000      P  RNA-Seq SRA311786
+2 6.54M Illumina HiSeq 2000      P  RNA-Seq SRA311786
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 8, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 8, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 8, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 8, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 8, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 8, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 8, numResults: 6, stopped: TRUE
+returning status FALSE
+got results for task 7
+numValues: 8, numResults: 7, stopped: TRUE
+returning status FALSE
+got results for task 8
+numValues: 8, numResults: 8, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6, result.7, result.8)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:57:74"
+[1] "guess: --phred33:57:74"
+[1] "guess: --phred33:53:74"
+[1] "guess: --phred33:53:74"
+[1] "guess: --phred33:40:74"
+[1] "guess: --phred33:40:74"
+[1] "guess: --phred33:53:74"
+[1] "guess: --phred33:53:74"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[7] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:         run    study experiment   cell other replicate treament sample_acc
+1 SRR2919800 GSE75035 SRX1433418 RWPE-1    NA         1      Scr SRS1164406
+2 SRR2919803 GSE75035 SRX1433421 RWPE-1    NA         2      Scr SRS1164404
+                                            title
+1 GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq
+2 GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq
+                                                                                                                                            sample_attribute
+1  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+2  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+  spots            platform layout strategy       SRA     phred
+1 7.82M Illumina HiSeq 2000      P  RNA-Seq SRA311786 --phred33
+2 6.54M Illumina HiSeq 2000      P  RNA-Seq SRA311786 --phred33
+
+
+Determining strandedness of: SRR2919800 P --phred33
+
+Determining strandedness of: SRR2919803 P --phred33
+[1] "SRR2919800.SAMPLE.sam"
+[1] "SRR2919803.SAMPLE.sam"
+[infer_experiment.py]: SRR2919803 = paired-end; F = 0.4803, R = 0.4869
+[1] "[infer_experiment.py]: SRR2919803 unstranded"
+[infer_experiment.py]: SRR2919800 = paired-end; F = 0.4842, R = 0.4832
+[1] "[infer_experiment.py]: SRR2919800 unstranded"
+         run    study experiment   cell other replicate treament sample_acc
+1 SRR2919800 GSE75035 SRX1433418 RWPE-1    NA         1      Scr SRS1164406
+2 SRR2919803 GSE75035 SRX1433421 RWPE-1    NA         2      Scr SRS1164404
+                                            title
+1 GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq
+2 GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq
+                                                                                                                                            sample_attribute
+1  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+2  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+  spots            platform layout strategy       SRA     phred     strand
+1 7.82M Illumina HiSeq 2000      P  RNA-Seq SRA311786 --phred33 unstranded
+2 6.54M Illumina HiSeq 2000      P  RNA-Seq SRA311786 --phred33 unstranded
+Counting SRR2919800 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR2919800 -b 30  -t 30   SRR2919800_1.fastq SRR2919800_2.fastqCounting SRR2919803 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR2919803 -b 30  -t 30   SRR2919803_1.fastq SRR2919803_2.fastqloop cycle COMPLETE
+[1] "metadata prefix: GSE81493"
+[1] "metadata:"
+     study        run experiment   cell other replicate treament sample_acc
+1 GSE81493 SRR3533003 SRX1767584 RWPE-1    NA         1   Vector SRS1440275
+2 GSE81493 SRR3533004 SRX1767585 RWPE-1    NA         2   Vector SRS1440276
+3 GSE81493 SRR3533005 SRX1767586 RWPE-1    NA         3   Vector SRS1440278
+                                                              title
+1 GSM2154810: RWPE1 empty vector replicate 1; Homo sapiens; RNA-Seq
+2 GSM2154811: RWPE1 empty vector replicate 2; Homo sapiens; RNA-Seq
+3 GSM2154812: RWPE1 empty vector replicate 3; Homo sapiens; RNA-Seq
+                                                                                                                                           sample_attribute
+1  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+2  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+3  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+   spots    platform layout strategy       SRA
+1 33.85M NextSeq 500      S  RNA-Seq SRA426357
+2 25.43M NextSeq 500      S  RNA-Seq SRA426357
+3 28.95M NextSeq 500      S  RNA-Seq SRA426357
+[1] "working dir: /home/adam/projects/2022-10-04_EMT-paper/GSE81493"
+[1] "SRR3533003" "SRR3533004" "SRR3533005"
+[1] "SRR3533003"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR3533003.sra SRR3533003"
+[1] "SRR3533004"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR3533004.sra SRR3533004"
+[1] "SRR3533005"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR3533005.sra SRR3533005"
+Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128259 READS because READLEN < 1 Read 1128259 spots for SRR3533003.sra Written 1128259 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra Rejected 1128231 READS because READLEN < 1 Read 1128231 spots for SRR3533003.sra Written 1128231 spots for SRR3533003.sra
+
+Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847541 READS because READLEN < 1 Read 847541 spots for SRR3533004.sra Written 847541 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra Rejected 847525 READS because READLEN < 1 Read 847525 spots for SRR3533004.sra Written 847525 spots for SRR3533004.sra
+
+Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965129 READS because READLEN < 1 Read 965129 spots for SRR3533005.sra Written 965129 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra Rejected 965102 READS because READLEN < 1 Read 965102 spots for SRR3533005.sra Written 965102 spots for SRR3533005.sra
+
+     study        run experiment   cell other replicate treament sample_acc
+1 GSE81493 SRR3533003 SRX1767584 RWPE-1    NA         1   Vector SRS1440275
+2 GSE81493 SRR3533004 SRX1767585 RWPE-1    NA         2   Vector SRS1440276
+3 GSE81493 SRR3533005 SRX1767586 RWPE-1    NA         3   Vector SRS1440278
+                                                              title
+1 GSM2154810: RWPE1 empty vector replicate 1; Homo sapiens; RNA-Seq
+2 GSM2154811: RWPE1 empty vector replicate 2; Homo sapiens; RNA-Seq
+3 GSM2154812: RWPE1 empty vector replicate 3; Homo sapiens; RNA-Seq
+                                                                                                                                           sample_attribute
+1  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+2  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+3  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+   spots    platform layout strategy       SRA
+1 33.85M NextSeq 500      S  RNA-Seq SRA426357
+2 25.43M NextSeq 500      S  RNA-Seq SRA426357
+3 28.95M NextSeq 500      S  RNA-Seq SRA426357
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 3, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 3, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 3, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 3, numResults: 3, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:         run    study experiment   cell other replicate treament sample_acc
+1 SRR3533003 GSE81493 SRX1767584 RWPE-1    NA         1   Vector SRS1440275
+2 SRR3533004 GSE81493 SRX1767585 RWPE-1    NA         2   Vector SRS1440276
+3 SRR3533005 GSE81493 SRX1767586 RWPE-1    NA         3   Vector SRS1440278
+                                                              title
+1 GSM2154810: RWPE1 empty vector replicate 1; Homo sapiens; RNA-Seq
+2 GSM2154811: RWPE1 empty vector replicate 2; Homo sapiens; RNA-Seq
+3 GSM2154812: RWPE1 empty vector replicate 3; Homo sapiens; RNA-Seq
+                                                                                                                                           sample_attribute
+1  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+2  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+3  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+   spots    platform layout strategy       SRA     phred
+1 33.85M NextSeq 500      S  RNA-Seq SRA426357 --phred33
+2 25.43M NextSeq 500      S  RNA-Seq SRA426357 --phred33
+3 28.95M NextSeq 500      S  RNA-Seq SRA426357 --phred33
+
+
+Determining strandedness of: SRR3533003 S --phred33
+
+Determining strandedness of: SRR3533004 S --phred33
+
+Determining strandedness of: SRR3533005 S --phred33
+[1] "SRR3533003.SAMPLE.sam"
+[1] "SRR3533004.SAMPLE.sam"
+[1] "SRR3533005.SAMPLE.sam"
+[infer_experiment.py]:SRR3533004 = single-end; F = 0.4822, R = 0.4908
+[1] "[infer_experiment.py]: SRR3533004 unstranded"
+[infer_experiment.py]:SRR3533003 = single-end; F = 0.4842, R = 0.4881
+[1] "[infer_experiment.py]: SRR3533003 unstranded"
+[infer_experiment.py]:SRR3533005 = single-end; F = 0.4768, R = 0.4955
+[1] "[infer_experiment.py]: SRR3533005 unstranded"
+         run    study experiment   cell other replicate treament sample_acc
+1 SRR3533003 GSE81493 SRX1767584 RWPE-1    NA         1   Vector SRS1440275
+2 SRR3533004 GSE81493 SRX1767585 RWPE-1    NA         2   Vector SRS1440276
+3 SRR3533005 GSE81493 SRX1767586 RWPE-1    NA         3   Vector SRS1440278
+                                                              title
+1 GSM2154810: RWPE1 empty vector replicate 1; Homo sapiens; RNA-Seq
+2 GSM2154811: RWPE1 empty vector replicate 2; Homo sapiens; RNA-Seq
+3 GSM2154812: RWPE1 empty vector replicate 3; Homo sapiens; RNA-Seq
+                                                                                                                                           sample_attribute
+1  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+2  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+3  || source_name: RWPE1 empty vector || cell line: RWPE1 || cell type: human prostatic epithelial cell line || genotype/variation: expressing empty vector
+   spots    platform layout strategy       SRA     phred     strand
+1 33.85M NextSeq 500      S  RNA-Seq SRA426357 --phred33 unstranded
+2 25.43M NextSeq 500      S  RNA-Seq SRA426357 --phred33 unstranded
+3 28.95M NextSeq 500      S  RNA-Seq SRA426357 --phred33 unstranded
+Counting SRR3533003 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR3533003 --single -l 200 -s 20 -b 30  -t 30   ./SRR3533003_1.fastqCounting SRR3533004 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR3533004 --single -l 200 -s 20 -b 30  -t 30   ./SRR3533004_1.fastqCounting SRR3533005 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR3533005 --single -l 200 -s 20 -b 30  -t 30   ./SRR3533005_1.fastqloop cycle COMPLETE
+[1] "metadata prefix: GSE98898"
+[1] "metadata:"
+     study        run experiment   cell other replicate  treament sample_acc
+1 GSE98898 SRR5558491 SRX2821648 RWPE-1    NA         3 sgControl SRS2198790
+2 GSE98898 SRR5558489 SRX2821656 RWPE-1    NA         1 sgControl SRS2198798
+3 GSE98898 SRR5558490 SRX2821657 RWPE-1    NA         2 sgControl SRS2198799
+4 GSE98898 SRR5558492 SRX2821658 RWPE-1    NA         4 sgControl SRS2198800
+5 GSE98898 SRR5558493 SRX2821659 RWPE-1    NA         5 sgControl SRS2198801
+                                                    title
+1 GSM2627210: Control RNA-seq rep3; Homo sapiens; RNA-Seq
+2 GSM2627208: Control RNA-seq rep1; Homo sapiens; RNA-Seq
+3 GSM2627209: Control RNA-seq rep2; Homo sapiens; RNA-Seq
+4 GSM2627211: Control RNA-seq rep4; Homo sapiens; RNA-Seq
+5 GSM2627212: Control RNA-seq rep5; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+2  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+3  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+4  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+5  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+   spots    platform layout strategy       SRA
+1 48.81M NextSeq 500      S  RNA-Seq SRA561771
+2 45.33M NextSeq 500      S  RNA-Seq SRA561771
+3 54.02M NextSeq 500      S  RNA-Seq SRA561771
+4  52.2M NextSeq 500      S  RNA-Seq SRA561771
+5 43.04M NextSeq 500      S  RNA-Seq SRA561771
+[1] "working dir: /home/adam/projects/2022-10-04_EMT-paper/GSE98898"
+[1] "SRR5558491" "SRR5558489" "SRR5558490" "SRR5558492" "SRR5558493"
+[1] "SRR5558491"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR5558491.sra SRR5558491"
+[1] "SRR5558489"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR5558489.sra SRR5558489"
+[1] "SRR5558490"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR5558490.sra SRR5558490"
+[1] "SRR5558492"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR5558492.sra SRR5558492"
+[1] "SRR5558493"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR5558493.sra SRR5558493"
+Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510944 READS because READLEN < 1 Read 1510944 spots for SRR5558489.sra Written 1510944 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra Rejected 1510925 READS because READLEN < 1 Read 1510925 spots for SRR5558489.sra Written 1510925 spots for SRR5558489.sra
+
+Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800764 READS because READLEN < 1 Read 1800764 spots for SRR5558490.sra Written 1800764 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra Rejected 1800753 READS because READLEN < 1 Read 1800753 spots for SRR5558490.sra Written 1800753 spots for SRR5558490.sra
+
+Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626953 READS because READLEN < 1 Read 1626953 spots for SRR5558491.sra Written 1626953 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra Rejected 1626935 READS because READLEN < 1 Read 1626935 spots for SRR5558491.sra Written 1626935 spots for SRR5558491.sra
+
+Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739943 READS because READLEN < 1 Read 1739943 spots for SRR5558492.sra Written 1739943 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra Rejected 1739921 READS because READLEN < 1 Read 1739921 spots for SRR5558492.sra Written 1739921 spots for SRR5558492.sra
+
+Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434737 READS because READLEN < 1 Read 1434737 spots for SRR5558493.sra Written 1434737 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra Rejected 1434726 READS because READLEN < 1 Read 1434726 spots for SRR5558493.sra Written 1434726 spots for SRR5558493.sra
+
+     study        run experiment   cell other replicate  treament sample_acc
+1 GSE98898 SRR5558491 SRX2821648 RWPE-1    NA         3 sgControl SRS2198790
+2 GSE98898 SRR5558489 SRX2821656 RWPE-1    NA         1 sgControl SRS2198798
+3 GSE98898 SRR5558490 SRX2821657 RWPE-1    NA         2 sgControl SRS2198799
+4 GSE98898 SRR5558492 SRX2821658 RWPE-1    NA         4 sgControl SRS2198800
+5 GSE98898 SRR5558493 SRX2821659 RWPE-1    NA         5 sgControl SRS2198801
+                                                    title
+1 GSM2627210: Control RNA-seq rep3; Homo sapiens; RNA-Seq
+2 GSM2627208: Control RNA-seq rep1; Homo sapiens; RNA-Seq
+3 GSM2627209: Control RNA-seq rep2; Homo sapiens; RNA-Seq
+4 GSM2627211: Control RNA-seq rep4; Homo sapiens; RNA-Seq
+5 GSM2627212: Control RNA-seq rep5; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+2  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+3  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+4  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+5  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+   spots    platform layout strategy       SRA
+1 48.81M NextSeq 500      S  RNA-Seq SRA561771
+2 45.33M NextSeq 500      S  RNA-Seq SRA561771
+3 54.02M NextSeq 500      S  RNA-Seq SRA561771
+4  52.2M NextSeq 500      S  RNA-Seq SRA561771
+5 43.04M NextSeq 500      S  RNA-Seq SRA561771
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 5, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 5, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 5, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 5, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 5, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 5, numResults: 5, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
+[detectStrandedness] input metadata:         run    study experiment   cell other replicate  treament sample_acc
+1 SRR5558489 GSE98898 SRX2821656 RWPE-1    NA         1 sgControl SRS2198798
+2 SRR5558490 GSE98898 SRX2821657 RWPE-1    NA         2 sgControl SRS2198799
+3 SRR5558491 GSE98898 SRX2821648 RWPE-1    NA         3 sgControl SRS2198790
+4 SRR5558492 GSE98898 SRX2821658 RWPE-1    NA         4 sgControl SRS2198800
+5 SRR5558493 GSE98898 SRX2821659 RWPE-1    NA         5 sgControl SRS2198801
+                                                    title
+1 GSM2627208: Control RNA-seq rep1; Homo sapiens; RNA-Seq
+2 GSM2627209: Control RNA-seq rep2; Homo sapiens; RNA-Seq
+3 GSM2627210: Control RNA-seq rep3; Homo sapiens; RNA-Seq
+4 GSM2627211: Control RNA-seq rep4; Homo sapiens; RNA-Seq
+5 GSM2627212: Control RNA-seq rep5; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+2  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+3  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+4  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+5  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+   spots    platform layout strategy       SRA     phred
+1 45.33M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+2 54.02M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+3 48.81M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+4  52.2M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+5 43.04M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+
+
+Determining strandedness of: SRR5558489 S --phred33
+
+Determining strandedness of: SRR5558490 S --phred33
+
+Determining strandedness of: SRR5558491 S --phred33
+
+Determining strandedness of: SRR5558492 S --phred33
+
+Determining strandedness of: SRR5558493 S --phred33
+[1] "SRR5558489.SAMPLE.sam"
+[1] "SRR5558490.SAMPLE.sam"
+[1] "SRR5558491.SAMPLE.sam"
+[1] "SRR5558492.SAMPLE.sam"[1]
+ "SRR5558493.SAMPLE.sam"
+[infer_experiment.py]:SRR5558492 = single-end; F = 0.0247, R = 0.9383
+[1] "[infer_experiment.py]: SRR5558492 --rna-strandness R"
+[infer_experiment.py]:SRR5558490 = single-end; F = 0.0285, R = 0.9366
+[1] "[infer_experiment.py]: SRR5558490 --rna-strandness R"
+[infer_experiment.py]:SRR5558493 = single-end; F = 0.0243, R = 0.9395
+[1] "[infer_experiment.py]: SRR5558493 --rna-strandness R"
+[infer_experiment.py]:SRR5558489 = single-end; F = 0.0241, R = 0.9397
+[1] "[infer_experiment.py]: SRR5558489 --rna-strandness R"
+[infer_experiment.py]:SRR5558491 = single-end; F = 0.0254, R = 0.9395
+[1] "[infer_experiment.py]: SRR5558491 --rna-strandness R"
+         run    study experiment   cell other replicate  treament sample_acc
+1 SRR5558489 GSE98898 SRX2821656 RWPE-1    NA         1 sgControl SRS2198798
+2 SRR5558490 GSE98898 SRX2821657 RWPE-1    NA         2 sgControl SRS2198799
+3 SRR5558491 GSE98898 SRX2821648 RWPE-1    NA         3 sgControl SRS2198790
+4 SRR5558492 GSE98898 SRX2821658 RWPE-1    NA         4 sgControl SRS2198800
+5 SRR5558493 GSE98898 SRX2821659 RWPE-1    NA         5 sgControl SRS2198801
+                                                    title
+1 GSM2627208: Control RNA-seq rep1; Homo sapiens; RNA-Seq
+2 GSM2627209: Control RNA-seq rep2; Homo sapiens; RNA-Seq
+3 GSM2627210: Control RNA-seq rep3; Homo sapiens; RNA-Seq
+4 GSM2627211: Control RNA-seq rep4; Homo sapiens; RNA-Seq
+5 GSM2627212: Control RNA-seq rep5; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+2  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+3  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+4  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+5  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+   spots    platform layout strategy       SRA     phred             strand
+1 45.33M NextSeq 500      S  RNA-Seq SRA561771 --phred33 --rna-strandness R
+2 54.02M NextSeq 500      S  RNA-Seq SRA561771 --phred33 --rna-strandness R
+3 48.81M NextSeq 500      S  RNA-Seq SRA561771 --phred33 --rna-strandness R
+4  52.2M NextSeq 500      S  RNA-Seq SRA561771 --phred33 --rna-strandness R
+5 43.04M NextSeq 500      S  RNA-Seq SRA561771 --phred33 --rna-strandness R
+Counting SRR5558489 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558489 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR5558489_1.fastqCounting SRR5558490 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558490 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR5558490_1.fastqCounting SRR5558491 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558491 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR5558491_1.fastqCounting SRR5558492 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558492 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR5558492_1.fastqCounting SRR5558493 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558493 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR5558493_1.fastqloop cycle COMPLETE
+      user     system    elapsed 
+131599.730   2177.971  20151.267 

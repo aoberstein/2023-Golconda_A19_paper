@@ -1,0 +1,60 @@
+      study         run  experiment    cell other replicate  treament
+1 GSE202017 SRR19033106 SRX15104671 ARPE-19    NA         1 shControl
+2 GSE202017 SRR19033105 SRX15104672 ARPE-19    NA         2 shControl
+3 GSE202017 SRR19033104 SRX15104673 ARPE-19    NA         3 shControl
+   sample_acc
+1 SRS12849911
+2 SRS12849912
+3 SRS12849913
+                                                                      title
+1 GSM6086752: RNA-seq_ARPE-19 cells, sh-Control,rep1; Homo sapiens; RNA-Seq
+2 GSM6086753: RNA-seq_ARPE-19 cells, sh-Control,rep2; Homo sapiens; RNA-Seq
+3 GSM6086754: RNA-seq_ARPE-19 cells, sh-Control,rep3; Homo sapiens; RNA-Seq
+                                                                                                                                                             sample_attribute
+1  || source_name: Retinal pigment epithelium || cell line: ARPE-19 || cell type: Retinal pigment epithelium cells || genotype: Scramble || treatment: LPS stimulated for 24h
+2  || source_name: Retinal pigment epithelium || cell line: ARPE-19 || cell type: Retinal pigment epithelium cells || genotype: Scramble || treatment: LPS stimulated for 24h
+3  || source_name: Retinal pigment epithelium || cell line: ARPE-19 || cell type: Retinal pigment epithelium cells || genotype: Scramble || treatment: LPS stimulated for 24h
+   spots            platform layout strategy        SRA
+1 37.87M Illumina HiSeq 2000      P  RNA-Seq SRA1413463
+2 31.86M Illumina HiSeq 2000      P  RNA-Seq SRA1413463
+3 32.88M Illumina HiSeq 2000      P  RNA-Seq SRA1413463
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

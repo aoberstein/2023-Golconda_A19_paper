@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:          run     study  experiment   cell other replicate treament  sample_acc
+1 SRR21660897 GSE213882 SRX17660623 MCF10A    NA         2      dox SRS15192863
+2 SRR21660898 GSE213882 SRX17660622 MCF10A    NA         1      dox SRS15192861
+                                                                         title
+1 GSM6595757: MCF10A cells, Control, 18 hours Dox rep 2; Homo sapiens; RNA-Seq
+2 GSM6595756: MCF10A cells, Control, 18 hours Dox rep 1; Homo sapiens; RNA-Seq
+                                                                                                                             sample_attribute
+1  || source_name: MCF10A || cell line: MCF10A || cell type: mammary epithelial cells || genotype: WT || treatment: Doxycycline || time: 18 h
+2  || source_name: MCF10A || cell line: MCF10A || cell type: mammary epithelial cells || genotype: WT || treatment: Doxycycline || time: 18 h
+   spots            platform layout strategy        SRA     phred
+1 19.76M Illumina HiSeq 4000      P  RNA-Seq SRA1503119 --phred33
+2 20.19M Illumina HiSeq 4000      P  RNA-Seq SRA1503119 --phred33
+
+
+Determining strandedness of: SRR21660897 P --phred33
+
+Determining strandedness of: SRR21660898 P --phred33
+[1] "SRR21660897.SAMPLE.sam"
+[1] "SRR21660898.SAMPLE.sam"
+[infer_experiment.py]: SRR21660897 = paired-end; F = 0.4828, R = 0.4853
+[1] "[infer_experiment.py]: SRR21660897 unstranded"
+[infer_experiment.py]: SRR21660898 = paired-end; F = 0.4844, R = 0.4848
+[1] "[infer_experiment.py]: SRR21660898 unstranded"

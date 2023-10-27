@@ -1,0 +1,41 @@
+[detectStrandedness] input metadata:         run     study experiment    cell other replicate treament sample_acc
+1 SRR8032314 GSE121137 SRX4864917 ARPE-19    NA         1  Control SRS3924214
+2 SRR8032315 GSE121137 SRX4864918 ARPE-19    NA         2  Control SRS3924213
+3 SRR8032316 GSE121137 SRX4864919 ARPE-19    NA         3  Control SRS3924212
+4 SRR8032317 GSE121137 SRX4864919 ARPE-19    NA         3  Control SRS3924212
+                                                    title
+1 GSM3426716: ARPE19_Control_1_RNA; Homo sapiens; RNA-Seq
+2 GSM3426717: ARPE19_Control_2_RNA; Homo sapiens; RNA-Seq
+3 GSM3426718: ARPE19_Control_3_RNA; Homo sapiens; RNA-Seq
+4 GSM3426718: ARPE19_Control_3_RNA; Homo sapiens; RNA-Seq
+                                                                                     sample_attribute
+1  || source_name: Retinal Pigment Epithelial Cells || cell type: ARPE-19 Cells || treatment: Control
+2  || source_name: Retinal Pigment Epithelial Cells || cell type: ARPE-19 Cells || treatment: Control
+3  || source_name: Retinal Pigment Epithelial Cells || cell type: ARPE-19 Cells || treatment: Control
+4  || source_name: Retinal Pigment Epithelial Cells || cell type: ARPE-19 Cells || treatment: Control
+   spots            platform layout strategy       SRA     phred
+1 40.01M Illumina HiSeq 4000      P  RNA-Seq SRA793235 --phred33
+2 36.64M Illumina HiSeq 4000      P  RNA-Seq SRA793235 --phred33
+3 38.64M Illumina HiSeq 4000      P  RNA-Seq SRA793235 --phred33
+4 13.47M Illumina HiSeq 4000      P  RNA-Seq SRA793235 --phred33
+
+
+Determining strandedness of: SRR8032314 P --phred33
+
+Determining strandedness of: SRR8032315 P --phred33
+
+Determining strandedness of: SRR8032316 P --phred33
+
+Determining strandedness of: SRR8032317 P --phred33
+[1] "SRR8032314.SAMPLE.sam"
+[1] "SRR8032315.SAMPLE.sam"
+[1] "SRR8032316.SAMPLE.sam"
+[1] "SRR8032317.SAMPLE.sam"
+[infer_experiment.py]: SRR8032317 = paired-end; F = 0.9089, R = 0.0468
+[1] "[infer_experiment.py]: SRR8032317 --rna-strandness FR"
+[infer_experiment.py]: SRR8032316 = paired-end; F = 0.9078, R = 0.0471
+[1] "[infer_experiment.py]: SRR8032316 --rna-strandness FR"
+[infer_experiment.py]: SRR8032315 = paired-end; F = 0.9271, R = 0.0330
+[1] "[infer_experiment.py]: SRR8032315 --rna-strandness FR"
+[infer_experiment.py]: SRR8032314 = paired-end; F = 0.9350, R = 0.0272
+[1] "[infer_experiment.py]: SRR8032314 --rna-strandness FR"

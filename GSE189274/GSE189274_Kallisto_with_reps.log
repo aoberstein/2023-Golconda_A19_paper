@@ -1,0 +1,3 @@
+Counting SRR16993449 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR16993449 -b 30 --rf-stranded -t 30   SRR16993449_1.fastq SRR16993449_2.fastqCounting SRR16993450 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR16993450 -b 30 --rf-stranded -t 30   SRR16993450_1.fastq SRR16993450_2.fastq

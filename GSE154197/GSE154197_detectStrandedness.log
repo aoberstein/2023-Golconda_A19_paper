@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:          run     study experiment    cell other replicate  treament sample_acc
+1 SRR12193639 GSE154197 SRX8707001 ARPE-19    NA         1 siControl SRS6983688
+2 SRR12193640 GSE154197 SRX8707002 ARPE-19    NA         2 siControl SRS6983689
+3 SRR12193641 GSE154197 SRX8707003 ARPE-19    NA         3 siControl SRS6983690
+                                                       title
+1 GSM4665780: RPE Control replicate 1; Homo sapiens; RNA-Seq
+2 GSM4665781: RPE Control replicate 2; Homo sapiens; RNA-Seq
+3 GSM4665782: RPE Control replicate 3; Homo sapiens; RNA-Seq
+                                                                                                                       sample_attribute
+1  || source_name: retinal pigment epithial || biomaterial_provider: ATCC CRL-2302 || cell line: ARPE-19 || sirna target: non-targeting
+2  || source_name: retinal pigment epithial || biomaterial_provider: ATCC CRL-2303 || cell line: ARPE-19 || sirna target: non-targeting
+3  || source_name: retinal pigment epithial || biomaterial_provider: ATCC CRL-2304 || cell line: ARPE-19 || sirna target: non-targeting
+   spots    platform layout strategy        SRA     phred
+1 48.07M NextSeq 500      S  RNA-Seq SRA1097278 --phred33
+2 44.14M NextSeq 500      S  RNA-Seq SRA1097278 --phred33
+3 38.93M NextSeq 500      S  RNA-Seq SRA1097278 --phred33
+
+
+Determining strandedness of: SRR12193639 S --phred33
+
+Determining strandedness of: SRR12193640 S --phred33
+
+Determining strandedness of: SRR12193641 S --phred33
+[1] "SRR12193639.SAMPLE.sam"
+[1] "SRR12193640.SAMPLE.sam"
+[1] "SRR12193641.SAMPLE.sam"
+[infer_experiment.py]:SRR12193641 = single-end; F = 0.9323, R = 0.0182
+[1] "[infer_experiment.py]: SRR12193641 --rna-strandness F"
+[infer_experiment.py]:SRR12193639 = single-end; F = 0.9356, R = 0.0164
+[1] "[infer_experiment.py]: SRR12193639 --rna-strandness F"
+[infer_experiment.py]:SRR12193640 = single-end; F = 0.9338, R = 0.0159
+[1] "[infer_experiment.py]: SRR12193640 --rna-strandness F"

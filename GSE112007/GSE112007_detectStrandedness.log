@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:         run     study experiment   cell other replicate treament sample_acc
+1 SRR6856295 GSE112007 SRX3811410 RWPE-1    NA         1  Control SRS3061927
+2 SRR6856296 GSE112007 SRX3811411 RWPE-1    NA         2  Control SRS3061929
+3 SRR6856297 GSE112007 SRX3811412 RWPE-1    NA         3  Control SRS3061928
+                                    title
+1 GSM3052833: RC_1; Homo sapiens; RNA-Seq
+2 GSM3052834: RC_2; Homo sapiens; RNA-Seq
+3 GSM3052835: RC_3; Homo sapiens; RNA-Seq
+                                                                                               sample_attribute
+1  || source_name: Prostate || cell line: RWPE-1 || treatment: control || cell type: normal || tissue: Prostate
+2  || source_name: Prostate || cell line: RWPE-1 || treatment: control || cell type: normal || tissue: Prostate
+3  || source_name: Prostate || cell line: RWPE-1 || treatment: control || cell type: normal || tissue: Prostate
+   spots            platform layout strategy       SRA     phred
+1 42.98M Illumina HiSeq 4000      P  RNA-Seq SRA667612 --phred33
+2 24.59M Illumina HiSeq 4000      P  RNA-Seq SRA667612 --phred33
+3 28.14M Illumina HiSeq 4000      P  RNA-Seq SRA667612 --phred33
+
+
+Determining strandedness of: SRR6856295 P --phred33
+
+Determining strandedness of: SRR6856296 P --phred33
+
+Determining strandedness of: SRR6856297 P --phred33
+[1] "SRR6856295.SAMPLE.sam"
+[1] "SRR6856296.SAMPLE.sam"
+[1] "SRR6856297.SAMPLE.sam"
+[infer_experiment.py]: SRR6856297 = paired-end; F = 0.4795, R = 0.4842
+[1] "[infer_experiment.py]: SRR6856297 unstranded"
+[infer_experiment.py]: SRR6856295 = paired-end; F = 0.4807, R = 0.4839
+[1] "[infer_experiment.py]: SRR6856295 unstranded"
+[infer_experiment.py]: SRR6856296 = paired-end; F = 0.4827, R = 0.4810
+[1] "[infer_experiment.py]: SRR6856296 unstranded"

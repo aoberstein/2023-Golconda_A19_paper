@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:          run     study  experiment cell other replicate treament  sample_acc
+1 SRR17230995 GSE190929 SRX13410105 MRC5    NA         2  Vehicle SRS11312719
+2 SRR17230998 GSE190929 SRX13410102 MRC5    NA         1  Vehicle SRS11312716
+                                          title
+1 GSM5734419: MRC5-veh-A; Homo sapiens; RNA-Seq
+2 GSM5734420: MRC5-veh-C; Homo sapiens; RNA-Seq
+                                                                                 sample_attribute
+1  || source_name: lung fibroblast || tissue: lung || cell type: fibroblast || treatment: vehicle
+2  || source_name: lung fibroblast || tissue: lung || cell type: fibroblast || treatment: vehicle
+   spots              platform layout strategy        SRA     phred
+1  28.3M Illumina NovaSeq 6000      P  RNA-Seq SRA1511922 --phred33
+2 23.61M Illumina NovaSeq 6000      P  RNA-Seq SRA1511922 --phred33
+
+
+Determining strandedness of: SRR17230995 P --phred33
+
+Determining strandedness of: SRR17230998 P --phred33
+[1] "SRR17230995.SAMPLE.sam"
+[1] "SRR17230998.SAMPLE.sam"
+[infer_experiment.py]: SRR17230998 = paired-end; F = 0.0085, R = 0.9574
+[1] "[infer_experiment.py]: SRR17230998 --rna-strandness RF"
+[infer_experiment.py]: SRR17230995 = paired-end; F = 0.0082, R = 0.9587
+[1] "[infer_experiment.py]: SRR17230995 --rna-strandness RF"

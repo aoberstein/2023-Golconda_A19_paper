@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:          run     study  experiment   cell other replicate treament  sample_acc
+1 SRR18004599 GSE196634 SRX14160184 RWPE-1    NA         3 Normoxia SRS11985357
+2 SRR18004600 GSE196634 SRX14160183 RWPE-1    NA         2 Normoxia SRS11985356
+3 SRR18004601 GSE196634 SRX14160182 RWPE-1    NA         1 Normoxia SRS11985355
+                                                   title
+1 GSM5897103: RWPE1 Normoxia rep3; Homo sapiens; RNA-Seq
+2 GSM5897102: RWPE1 Normoxia rep2; Homo sapiens; RNA-Seq
+3 GSM5897101: RWPE1 Normoxia rep1; Homo sapiens; RNA-Seq
+                                                                                                        sample_attribute
+1  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+2  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+3  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+   spots    platform layout strategy        SRA     phred
+1 33.98M NextSeq 500      S  RNA-Seq SRA1372027 --phred33
+2 29.83M NextSeq 500      S  RNA-Seq SRA1372027 --phred33
+3 34.55M NextSeq 500      S  RNA-Seq SRA1372027 --phred33
+
+
+Determining strandedness of: SRR18004599 S --phred33
+
+Determining strandedness of: SRR18004600 S --phred33
+
+Determining strandedness of: SRR18004601 S --phred33
+[1] "SRR18004599.SAMPLE.sam"
+[1] "SRR18004600.SAMPLE.sam"
+[1] "SRR18004601.SAMPLE.sam"
+[infer_experiment.py]:SRR18004601 = single-end; F = 0.0112, R = 0.9573
+[1] "[infer_experiment.py]: SRR18004601 --rna-strandness R"
+[infer_experiment.py]:SRR18004599 = single-end; F = 0.0102, R = 0.9601
+[1] "[infer_experiment.py]: SRR18004599 --rna-strandness R"
+[infer_experiment.py]:SRR18004600 = single-end; F = 0.0101, R = 0.9585
+[1] "[infer_experiment.py]: SRR18004600 --rna-strandness R"

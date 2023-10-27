@@ -1,0 +1,4 @@
+study	run	experiment	cell	other	replicate	treament	sample_acc	title	sample_attribute	spots	platform	layout	strategy	SRA
+GSE124118	SRR8354418	SRX5165262	MRC5	NA	1	Parental	SRS4174334	GSM3521166: H211; Homo sapiens; RNA-Seq	 || source_name: lung || cell line: MRC-5 (ATCC, CCL-171) || hiv-1 infection: mock || tissue: lung	41.2M	NextSeq 500	S	RNA-Seq	SRA825000
+GSE124118	SRR8354419	SRX5165263	MRC5	NA	2	Parental	SRS4174335	GSM3521167: H212; Homo sapiens; RNA-Seq	 || source_name: lung || cell line: MRC-5 (ATCC, CCL-171) || hiv-1 infection: mock || tissue: lung	51.85M	NextSeq 500	S	RNA-Seq	SRA825000
+GSE124118	SRR8354420	SRX5165264	MRC5	NA	3	Parental	SRS4174336	GSM3521168: H213; Homo sapiens; RNA-Seq	 || source_name: lung || cell line: MRC-5 (ATCC, CCL-171) || hiv-1 infection: mock || tissue: lung	33.94M	NextSeq 500	S	RNA-Seq	SRA825000

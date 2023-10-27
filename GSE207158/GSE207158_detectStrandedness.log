@@ -1,0 +1,59 @@
+[detectStrandedness] input metadata:          run     study  experiment    cell other replicate treament
+1 SRR19895498 GSE207158 SRX15938551 ARPE-19    NA         3 Parental
+2 SRR19895499 GSE207158 SRX15938551 ARPE-19    NA         3 Parental
+3 SRR19895500 GSE207158 SRX15938550 ARPE-19    NA         2 Parental
+4 SRR19895501 GSE207158 SRX15938550 ARPE-19    NA         2 Parental
+5 SRR19895502 GSE207158 SRX15938549 ARPE-19    NA         1 Parental
+6 SRR19895503 GSE207158 SRX15938549 ARPE-19    NA         1 Parental
+   sample_acc                                                  title
+1 SRS13625734 GSM6280652: Wildtype biol rep 3; Homo sapiens; RNA-Seq
+2 SRS13625734 GSM6280652: Wildtype biol rep 3; Homo sapiens; RNA-Seq
+3 SRS13625733 GSM6280651: Wildtype biol rep 2; Homo sapiens; RNA-Seq
+4 SRS13625733 GSM6280651: Wildtype biol rep 2; Homo sapiens; RNA-Seq
+5 SRS13625732 GSM6280650: Wildtype biol rep 1; Homo sapiens; RNA-Seq
+6 SRS13625732 GSM6280650: Wildtype biol rep 1; Homo sapiens; RNA-Seq
+                                                                                                                                                    sample_attribute
+1  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+2  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+3  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+4  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+5  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+6  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+   spots              platform layout strategy        SRA     phred
+1 20.71M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910 --phred33
+2 21.04M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910 --phred33
+3 21.06M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910 --phred33
+4 21.45M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910 --phred33
+5 22.55M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910 --phred33
+6 22.91M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910 --phred33
+
+
+Determining strandedness of: SRR19895498 S --phred33
+
+Determining strandedness of: SRR19895499 S --phred33
+
+Determining strandedness of: SRR19895500 S --phred33
+
+Determining strandedness of: SRR19895501 S --phred33
+
+Determining strandedness of: SRR19895502 S --phred33
+
+Determining strandedness of: SRR19895503 S --phred33
+[1] "SRR19895498.SAMPLE.sam"
+[1] "SRR19895499.SAMPLE.sam"
+[1] "SRR19895500.SAMPLE.sam"
+[1] "SRR19895501.SAMPLE.sam"
+[1] "SRR19895502.SAMPLE.sam"
+[1] "SRR19895503.SAMPLE.sam"
+[infer_experiment.py]:SRR19895500 = single-end; F = 0.0151, R = 0.9521
+[1] "[infer_experiment.py]: SRR19895500 --rna-strandness R"
+[infer_experiment.py]:SRR19895501 = single-end; F = 0.0141, R = 0.9524
+[1] "[infer_experiment.py]: SRR19895501 --rna-strandness R"
+[infer_experiment.py]:SRR19895502 = single-end; F = 0.0105, R = 0.9547
+[1] "[infer_experiment.py]: SRR19895502 --rna-strandness R"
+[infer_experiment.py]:SRR19895499 = single-end; F = 0.0117, R = 0.9570
+[1] "[infer_experiment.py]: SRR19895499 --rna-strandness R"
+[infer_experiment.py]:SRR19895498 = single-end; F = 0.0129, R = 0.9563
+[1] "[infer_experiment.py]: SRR19895498 --rna-strandness R"
+[infer_experiment.py]:SRR19895503 = single-end; F = 0.0095, R = 0.9552
+[1] "[infer_experiment.py]: SRR19895503 --rna-strandness R"

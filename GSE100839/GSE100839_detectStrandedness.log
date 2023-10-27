@@ -1,0 +1,113 @@
+[detectStrandedness] input metadata:          run     study experiment    cell other replicate treament sample_acc
+1  SRR5807527 GSE100839 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+2  SRR5807528 GSE100839 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+3  SRR5807529 GSE100839 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+4  SRR5807530 GSE100839 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+5  SRR5807531 GSE100839 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+6  SRR5807532 GSE100839 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+7  SRR5807533 GSE100839 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+8  SRR5807534 GSE100839 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+9  SRR5807535 GSE100839 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+10 SRR5807536 GSE100839 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+11 SRR5807537 GSE100839 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+12 SRR5807538 GSE100839 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+                                      title
+1  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+2  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+3  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+4  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+5  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+6  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+7  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+8  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+9  GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+10 GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+11 GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+12 GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+                                                                                                                  sample_attribute
+1   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+2   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+3   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+4   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+5   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+6   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+7   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+8   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+9   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+10  || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+11  || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+12  || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+    spots    platform layout strategy       SRA     phred
+1  13.01M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+2  12.69M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+3  12.74M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+4  12.67M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+5  10.09M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+6   9.87M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+7   9.89M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+8   9.86M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+9  11.78M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+10 11.62M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+11 11.57M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+12 11.62M NextSeq 500      P  RNA-Seq SRA584250 --phred33
+
+
+Determining strandedness of: SRR5807527 P --phred33
+
+Determining strandedness of: SRR5807528 P --phred33
+
+Determining strandedness of: SRR5807529 P --phred33
+
+Determining strandedness of: SRR5807530 P --phred33
+
+Determining strandedness of: SRR5807531 P --phred33
+
+Determining strandedness of: SRR5807532 P --phred33
+
+Determining strandedness of: SRR5807533 P --phred33
+
+Determining strandedness of: SRR5807534 P --phred33
+
+Determining strandedness of: SRR5807535 P --phred33
+
+Determining strandedness of: SRR5807536 P --phred33
+
+Determining strandedness of: SRR5807537 P --phred33
+
+Determining strandedness of: SRR5807538 P --phred33
+[1] "SRR5807527.SAMPLE.sam"
+[1] "SRR5807528.SAMPLE.sam"
+[1] "SRR5807529.SAMPLE.sam"
+[1] "SRR5807530.SAMPLE.sam"
+[1] "SRR5807531.SAMPLE.sam"
+[1] "SRR5807532.SAMPLE.sam"
+[1] "SRR5807533.SAMPLE.sam"
+[1] "SRR5807534.SAMPLE.sam"
+[1] "SRR5807535.SAMPLE.sam"
+[1] "SRR5807536.SAMPLE.sam"
+[1] "SRR5807537.SAMPLE.sam"
+[1] "SRR5807538.SAMPLE.sam"
+[infer_experiment.py]: SRR5807529 = paired-end; F = 0.0253, R = 0.9328
+[1] "[infer_experiment.py]: SRR5807529 --rna-strandness RF"
+[infer_experiment.py]: SRR5807527 = paired-end; F = 0.0241, R = 0.9357
+[1] "[infer_experiment.py]: SRR5807527 --rna-strandness RF"
+[infer_experiment.py]: SRR5807528 = paired-end; F = 0.0254, R = 0.9335
+[1] "[infer_experiment.py]: SRR5807528 --rna-strandness RF"
+[infer_experiment.py]: SRR5807533 = paired-end; F = 0.0414, R = 0.9159
+[1] "[infer_experiment.py]: SRR5807533 --rna-strandness RF"
+[infer_experiment.py]: SRR5807537 = paired-end; F = 0.0393, R = 0.9192
+[1] "[infer_experiment.py]: SRR5807537 --rna-strandness RF"
+[infer_experiment.py]: SRR5807534 = paired-end; F = 0.0413, R = 0.9163
+[1] "[infer_experiment.py]: SRR5807534 --rna-strandness RF"
+[infer_experiment.py]: SRR5807535 = paired-end; F = 0.0395, R = 0.9190
+[1] "[infer_experiment.py]: SRR5807535 --rna-strandness RF"
+[infer_experiment.py]: SRR5807530 = paired-end; F = 0.0258, R = 0.9326
+[1] "[infer_experiment.py]: SRR5807530 --rna-strandness RF"
+[infer_experiment.py]: SRR5807531 = paired-end; F = 0.0408, R = 0.9164
+[1] "[infer_experiment.py]: SRR5807531 --rna-strandness RF"
+[infer_experiment.py]: SRR5807538 = paired-end; F = 0.0369, R = 0.9230[infer_experiment.py]: SRR5807536 = paired-end; F = 0.0386, R = 0.9191
+
+[1][1] "[infer_experiment.py]: SRR5807536 --rna-strandness RF" "[infer_experiment.py]: SRR5807538 --rna-strandness RF"
+
+[infer_experiment.py]: SRR5807532 = paired-end; F = 0.0410, R = 0.9164
+[1] "[infer_experiment.py]: SRR5807532 --rna-strandness RF"

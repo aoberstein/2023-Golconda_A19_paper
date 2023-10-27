@@ -1,0 +1,42 @@
+      study        run experiment   cell other replicate  treament sample_acc
+1 GSE131701 SRR9114344 SRX5888602 MCF10A    NA         1 sgControl SRS4810759
+2 GSE131701 SRR9114345 SRX5888603 MCF10A    NA         2 sgControl SRS4810760
+                                                title
+1 GSM3814228: 10a-control_rep1; Homo sapiens; RNA-Seq
+2 GSM3814229: 10a-control_rep2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                 sample_attribute
+1  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+2  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+   spots   platform layout strategy       SRA
+1 22.49M BGISEQ-500      P  RNA-Seq SRA889904
+2 22.75M BGISEQ-500      P  RNA-Seq SRA889904
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

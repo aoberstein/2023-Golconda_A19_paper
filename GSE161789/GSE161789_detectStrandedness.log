@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:          run     study experiment cell other replicate treament sample_acc
+1 SRR13084732 GSE161789 SRX9531428 MRC5    NA         1 Parental SRS7737955
+2 SRR13084733 GSE161789 SRX9531429 MRC5    NA         2 Parental SRS7737956
+                                                 title
+1 GSM4914513: MRC5-RNA-CON rep1; Homo sapiens; RNA-Seq
+2 GSM4914514: MRC5-RNA-CON rep2; Homo sapiens; RNA-Seq
+                                                                                                                        sample_attribute
+1  || source_name: Fibroblast cells || cell line: MRC5 || cell type: normal lung tissue-derived fibroblast cells || treatment: untreated
+2  || source_name: Fibroblast cells || cell line: MRC5 || cell type: normal lung tissue-derived fibroblast cells || treatment: untreated
+   spots              platform layout strategy        SRA     phred
+1 23.19M Illumina NovaSeq 6000      P  RNA-Seq SRA1161352 --phred33
+2 22.19M Illumina NovaSeq 6000      P  RNA-Seq SRA1161352 --phred33
+
+
+Determining strandedness of: SRR13084732 P --phred33
+
+Determining strandedness of: SRR13084733 P --phred33
+[1] "SRR13084732.SAMPLE.sam"
+[1] "SRR13084733.SAMPLE.sam"
+[infer_experiment.py]: SRR13084732 = paired-end; F = 0.4848, R = 0.4832
+[1] "[infer_experiment.py]: SRR13084732 unstranded"
+[infer_experiment.py]: SRR13084733 = paired-end; F = 0.4887, R = 0.4792
+[1] "[infer_experiment.py]: SRR13084733 unstranded"

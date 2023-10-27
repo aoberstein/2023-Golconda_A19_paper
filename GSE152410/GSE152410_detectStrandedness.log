@@ -1,0 +1,41 @@
+[detectStrandedness] input metadata:          run     study experiment   cell other replicate treament sample_acc
+1 SRR12006109 GSE152410 SRX8539285 MCF10A   PBS         1  Control SRS6834102
+2 SRR12006110 GSE152410 SRX8539286 MCF10A   PBS         2  Control SRS6834103
+3 SRR12006111 GSE152410 SRX8539287 MCF10A   PBS         3  Control SRS6834104
+4 SRR12006112 GSE152410 SRX8539288 MCF10A   PBS         4  Control SRS6834105
+                                                  title
+1 GSM4614840: ctrl_0_C1_A_RNAseq; Homo sapiens; RNA-Seq
+2 GSM4614841: ctrl_0_C1_B_RNAseq; Homo sapiens; RNA-Seq
+3 GSM4614842: ctrl_0_C1_C_RNAseq; Homo sapiens; RNA-Seq
+4 GSM4614843: ctrl_0_C1_D_RNAseq; Homo sapiens; RNA-Seq
+                                                                                                                                                               sample_attribute
+1  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+2  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+3  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+4  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+   spots            platform layout strategy        SRA     phred
+1 57.58M Illumina HiSeq 2500      S  RNA-Seq SRA1086711 --phred33
+2 58.89M Illumina HiSeq 2500      S  RNA-Seq SRA1086711 --phred33
+3 62.49M Illumina HiSeq 2500      S  RNA-Seq SRA1086711 --phred33
+4 64.19M Illumina HiSeq 2500      S  RNA-Seq SRA1086711 --phred33
+
+
+Determining strandedness of: SRR12006109 S --phred33
+
+Determining strandedness of: SRR12006110 S --phred33
+
+Determining strandedness of: SRR12006111 S --phred33
+
+Determining strandedness of: SRR12006112 S --phred33
+[1] "SRR12006109.SAMPLE.sam"
+[1] "SRR12006110.SAMPLE.sam"
+[1] "SRR12006111.SAMPLE.sam"
+[1] "SRR12006112.SAMPLE.sam"
+[infer_experiment.py]:SRR12006109 = single-end; F = 0.0060, R = 0.9550
+[1] "[infer_experiment.py]: SRR12006109 --rna-strandness R"
+[infer_experiment.py]:SRR12006110 = single-end; F = 0.0061, R = 0.9539
+[1] "[infer_experiment.py]: SRR12006110 --rna-strandness R"
+[infer_experiment.py]:SRR12006112 = single-end; F = 0.0065, R = 0.9547
+[1] "[infer_experiment.py]: SRR12006112 --rna-strandness R"
+[infer_experiment.py]:SRR12006111 = single-end; F = 0.0057, R = 0.9548
+[1] "[infer_experiment.py]: SRR12006111 --rna-strandness R"

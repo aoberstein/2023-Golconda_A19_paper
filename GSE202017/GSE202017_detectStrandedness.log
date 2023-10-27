@@ -1,0 +1,36 @@
+[detectStrandedness] input metadata:          run     study  experiment    cell other replicate  treament
+1 SRR19033104 GSE202017 SRX15104673 ARPE-19    NA         3 shControl
+2 SRR19033105 GSE202017 SRX15104672 ARPE-19    NA         2 shControl
+3 SRR19033106 GSE202017 SRX15104671 ARPE-19    NA         1 shControl
+   sample_acc
+1 SRS12849913
+2 SRS12849912
+3 SRS12849911
+                                                                      title
+1 GSM6086754: RNA-seq_ARPE-19 cells, sh-Control,rep3; Homo sapiens; RNA-Seq
+2 GSM6086753: RNA-seq_ARPE-19 cells, sh-Control,rep2; Homo sapiens; RNA-Seq
+3 GSM6086752: RNA-seq_ARPE-19 cells, sh-Control,rep1; Homo sapiens; RNA-Seq
+                                                                                                                                                             sample_attribute
+1  || source_name: Retinal pigment epithelium || cell line: ARPE-19 || cell type: Retinal pigment epithelium cells || genotype: Scramble || treatment: LPS stimulated for 24h
+2  || source_name: Retinal pigment epithelium || cell line: ARPE-19 || cell type: Retinal pigment epithelium cells || genotype: Scramble || treatment: LPS stimulated for 24h
+3  || source_name: Retinal pigment epithelium || cell line: ARPE-19 || cell type: Retinal pigment epithelium cells || genotype: Scramble || treatment: LPS stimulated for 24h
+   spots            platform layout strategy        SRA     phred
+1 32.88M Illumina HiSeq 2000      P  RNA-Seq SRA1413463 --phred33
+2 31.86M Illumina HiSeq 2000      P  RNA-Seq SRA1413463 --phred33
+3 37.87M Illumina HiSeq 2000      P  RNA-Seq SRA1413463 --phred33
+
+
+Determining strandedness of: SRR19033104 P --phred33
+
+Determining strandedness of: SRR19033105 P --phred33
+
+Determining strandedness of: SRR19033106 P --phred33
+[1] "SRR19033104.SAMPLE.sam"
+[1] "SRR19033105.SAMPLE.sam"
+[1] "SRR19033106.SAMPLE.sam"
+[infer_experiment.py]: SRR19033106 = paired-end; F = 0.4816, R = 0.4825
+[1] "[infer_experiment.py]: SRR19033106 unstranded"
+[infer_experiment.py]: SRR19033105 = paired-end; F = 0.4851, R = 0.4790
+[1] "[infer_experiment.py]: SRR19033105 unstranded"
+[infer_experiment.py]: SRR19033104 = paired-end; F = 0.4858, R = 0.4799
+[1] "[infer_experiment.py]: SRR19033104 unstranded"

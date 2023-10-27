@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:          run     study experiment   cell other replicate treament sample_acc
+1 SRR10575172 GSE141323 SRX7256472 RWPE-1    NA         1 Parental SRS5753954
+2 SRR10575173 GSE141323 SRX7256473 RWPE-1    NA         2 Parental SRS5753955
+3 SRR10575174 GSE141323 SRX7256474 RWPE-1    NA         3 Parental SRS5753956
+                                      title
+1 GSM4200853: RWPE 1; Homo sapiens; RNA-Seq
+2 GSM4200854: RWPE 2; Homo sapiens; RNA-Seq
+3 GSM4200855: RWPE 3; Homo sapiens; RNA-Seq
+                                                                                                   sample_attribute
+1  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+2  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+3  || source_name: cell line || cell line: Benign human prostate stromal cells (BHPrS1) || genotype/variation: RWPE
+   spots            platform layout strategy        SRA     phred
+1 56.38M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+2 64.32M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+3  62.1M Illumina HiSeq 2000      P  RNA-Seq SRA1005664 --phred33
+
+
+Determining strandedness of: SRR10575172 P --phred33
+
+Determining strandedness of: SRR10575173 P --phred33
+
+Determining strandedness of: SRR10575174 P --phred33
+[1] "SRR10575172.SAMPLE.sam"
+[1] "SRR10575173.SAMPLE.sam"
+[1] "SRR10575174.SAMPLE.sam"
+[infer_experiment.py]: SRR10575172 = paired-end; F = 0.0138, R = 0.8928
+[1] "[infer_experiment.py]: SRR10575172 --rna-strandness RF"
+[infer_experiment.py]: SRR10575173 = paired-end; F = 0.0114, R = 0.9633
+[1] "[infer_experiment.py]: SRR10575173 --rna-strandness RF"
+[infer_experiment.py]: SRR10575174 = paired-end; F = 0.0151, R = 0.9603
+[1] "[infer_experiment.py]: SRR10575174 --rna-strandness RF"

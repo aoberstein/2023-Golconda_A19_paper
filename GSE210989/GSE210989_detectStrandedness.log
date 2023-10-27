@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:          run     study  experiment cell other replicate treament  sample_acc
+1 SRR21010131 GSE210989 SRX17026642 MRC5    NA         3 Parental SRS14611534
+2 SRR21010132 GSE210989 SRX17026641 MRC5    NA         2 Parental SRS14611533
+3 SRR21010133 GSE210989 SRX17026640 MRC5    NA         1 Parental SRS14611532
+                                               title
+1 GSM6443802: Mock_3_48hpi_R1; Homo sapiens; RNA-Seq
+2 GSM6443801: Mock_2_48hpi_R1; Homo sapiens; RNA-Seq
+3 GSM6443800: Mock_1_48hpi_R1; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Human Lung Fibroblasts || cell line: MRC5 || cell type: Fibroblasts || infection: Mock || time point: 48 hpi
+2  || source_name: Human Lung Fibroblasts || cell line: MRC5 || cell type: Fibroblasts || infection: Mock || time point: 48 hpi
+3  || source_name: Human Lung Fibroblasts || cell line: MRC5 || cell type: Fibroblasts || infection: Mock || time point: 48 hpi
+   spots            platform layout strategy        SRA     phred
+1 19.84M Illumina HiSeq 2500      S  RNA-Seq SRA1473312 --phred33
+2 21.09M Illumina HiSeq 2500      S  RNA-Seq SRA1473312 --phred33
+3 22.89M Illumina HiSeq 2500      S  RNA-Seq SRA1473312 --phred33
+
+
+Determining strandedness of: SRR21010131 S --phred33
+
+Determining strandedness of: SRR21010132 S --phred33
+
+Determining strandedness of: SRR21010133 S --phred33
+[1] "SRR21010131.SAMPLE.sam"
+[1] "SRR21010132.SAMPLE.sam"
+[1] "SRR21010133.SAMPLE.sam"
+[infer_experiment.py]:SRR21010132 = single-end; F = 0.0174, R = 0.9464
+[1] "[infer_experiment.py]: SRR21010132 --rna-strandness R"
+[infer_experiment.py]:SRR21010133 = single-end; F = 0.0144, R = 0.9501
+[1] "[infer_experiment.py]: SRR21010133 --rna-strandness R"
+[infer_experiment.py]:SRR21010131 = single-end; F = 0.0083, R = 0.9539
+[1] "[infer_experiment.py]: SRR21010131 --rna-strandness R"

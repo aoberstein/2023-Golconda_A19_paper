@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:          run     study  experiment   cell other replicate treament sample_acc
+1 SRR15671423 GSE183058 SRX11968086 MCF10A  pCDH         1   Vector SRS9977010
+2 SRR15671425 GSE183058 SRX11968087 MCF10A  pCDH         2   Vector SRS9977011
+                                                 title
+1 GSM5550239: MCF10A_pCDHempty1; Homo sapiens; RNA-Seq
+2 GSM5550240: MCF10A_pCDHempty2; Homo sapiens; RNA-Seq
+                                                                                                         sample_attribute
+1  || source_name: MCF10A cell line || cell line: MCF10A || cell type: normal breast epithelial || genotype: empty vector
+2  || source_name: MCF10A cell line || cell line: MCF10A || cell type: normal breast epithelial || genotype: empty vector
+   spots            platform layout strategy        SRA     phred
+1 33.42M Illumina HiSeq 2000      P  RNA-Seq SRA1285857 --phred33
+2 28.91M Illumina HiSeq 2000      P  RNA-Seq SRA1285857 --phred33
+
+
+Determining strandedness of: SRR15671423 P --phred33
+
+Determining strandedness of: SRR15671425 P --phred33
+[1][1] "SRR15671423.SAMPLE.sam" "SRR15671425.SAMPLE.sam"
+
+[infer_experiment.py]: SRR15671425 = paired-end; F = 0.0215, R = 0.9420
+[1] "[infer_experiment.py]: SRR15671425 --rna-strandness RF"
+[infer_experiment.py]: SRR15671423 = paired-end; F = 0.0135, R = 0.9700
+[1] "[infer_experiment.py]: SRR15671423 --rna-strandness RF"

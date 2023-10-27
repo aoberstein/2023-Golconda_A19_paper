@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:         run    study experiment   cell other replicate treament sample_acc
+1 SRR2919800 GSE75035 SRX1433418 RWPE-1    NA         1      Scr SRS1164406
+2 SRR2919803 GSE75035 SRX1433421 RWPE-1    NA         2      Scr SRS1164404
+                                            title
+1 GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq
+2 GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq
+                                                                                                                                            sample_attribute
+1  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+2  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+  spots            platform layout strategy       SRA     phred
+1 7.82M Illumina HiSeq 2000      P  RNA-Seq SRA311786 --phred33
+2 6.54M Illumina HiSeq 2000      P  RNA-Seq SRA311786 --phred33
+
+
+Determining strandedness of: SRR2919800 P --phred33
+
+Determining strandedness of: SRR2919803 P --phred33
+[1] "SRR2919800.SAMPLE.sam"
+[1] "SRR2919803.SAMPLE.sam"
+[infer_experiment.py]: SRR2919803 = paired-end; F = 0.4803, R = 0.4869
+[1] "[infer_experiment.py]: SRR2919803 unstranded"
+[infer_experiment.py]: SRR2919800 = paired-end; F = 0.4842, R = 0.4832
+[1] "[infer_experiment.py]: SRR2919800 unstranded"

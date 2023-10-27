@@ -1,0 +1,42 @@
+      study         run  experiment   cell other replicate treament sample_acc
+1 GSE183058 SRR15671423 SRX11968086 MCF10A  pCDH         1   Vector SRS9977010
+2 GSE183058 SRR15671425 SRX11968087 MCF10A  pCDH         2   Vector SRS9977011
+                                                 title
+1 GSM5550239: MCF10A_pCDHempty1; Homo sapiens; RNA-Seq
+2 GSM5550240: MCF10A_pCDHempty2; Homo sapiens; RNA-Seq
+                                                                                                         sample_attribute
+1  || source_name: MCF10A cell line || cell line: MCF10A || cell type: normal breast epithelial || genotype: empty vector
+2  || source_name: MCF10A cell line || cell line: MCF10A || cell type: normal breast epithelial || genotype: empty vector
+   spots            platform layout strategy        SRA
+1 33.42M Illumina HiSeq 2000      P  RNA-Seq SRA1285857
+2 28.91M Illumina HiSeq 2000      P  RNA-Seq SRA1285857
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:49:74"
+[1] "guess: --phred33:57:74"
+[1] "guess: --phred33:55:74"
+[1] "guess: --phred33:52:73"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

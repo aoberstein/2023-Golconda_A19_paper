@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:          run     study  experiment   cell other replicate   treament
+1 SRR17130486 GSE190176 SRX13314955 MCF10A    NA         3 mCherry-OE
+2 SRR17130487 GSE190176 SRX13314954 MCF10A    NA         2 mCherry-OE
+3 SRR17130488 GSE190176 SRX13314953 MCF10A    NA         1 mCherry-OE
+   sample_acc                                                  title
+1 SRS11223139 GSM5717669: MCF10AmCherry repl3; Homo sapiens; RNA-Seq
+2 SRS11223142 GSM5717668: MCF10AmCherry repl2; Homo sapiens; RNA-Seq
+3 SRS11223141 GSM5717667: MCF10AmCherry repl1; Homo sapiens; RNA-Seq
+                                                                                                                         sample_attribute
+1  || source_name: Mammary epithelial cells MCF10A stably expressing mCherry || cell line: MCF10A || exogenous protein expressed: mCherry
+2  || source_name: Mammary epithelial cells MCF10A stably expressing mCherry || cell line: MCF10A || exogenous protein expressed: mCherry
+3  || source_name: Mammary epithelial cells MCF10A stably expressing mCherry || cell line: MCF10A || exogenous protein expressed: mCherry
+   spots            platform layout strategy        SRA     phred
+1 24.61M Illumina HiSeq 4000      S  RNA-Seq SRA1338710 --phred33
+2 32.01M Illumina HiSeq 4000      S  RNA-Seq SRA1338710 --phred33
+3 33.94M Illumina HiSeq 4000      S  RNA-Seq SRA1338710 --phred33
+
+
+Determining strandedness of: SRR17130486 S --phred33
+
+Determining strandedness of: SRR17130487 S --phred33
+
+Determining strandedness of: SRR17130488 S --phred33
+[1] "SRR17130486.SAMPLE.sam"
+[1] "SRR17130487.SAMPLE.sam"
+[1] "SRR17130488.SAMPLE.sam"
+[infer_experiment.py]:SRR17130486 = single-end; F = 0.0111, R = 0.9524
+[1] "[infer_experiment.py]: SRR17130486 --rna-strandness R"
+[infer_experiment.py]:SRR17130487 = single-end; F = 0.0084, R = 0.9548
+[1] "[infer_experiment.py]: SRR17130487 --rna-strandness R"
+[infer_experiment.py]:SRR17130488 = single-end; F = 0.0122, R = 0.9518
+[1] "[infer_experiment.py]: SRR17130488 --rna-strandness R"

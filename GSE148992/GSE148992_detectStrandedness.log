@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:          run     study experiment cell other replicate treament sample_acc
+1 SRR11576978 GSE148992 SRX8144825 MRC5    NA         1 Parental SRS6507685
+2 SRR11576979 GSE148992 SRX8144826 MRC5    NA         2 Parental SRS6507686
+3 SRR11576980 GSE148992 SRX8144827 MRC5    NA         3 Parental SRS6507687
+                                      title
+1 GSM4487065: MRC5_1; Homo sapiens; RNA-Seq
+2 GSM4487066: MRC5_2; Homo sapiens; RNA-Seq
+3 GSM4487067: MRC5_3; Homo sapiens; RNA-Seq
+                                                                                              sample_attribute
+1  || source_name: MRC5 || developmental stage: Fetal || cell line: fetal human lung fibroblast cell line MRC5
+2  || source_name: MRC5 || developmental stage: Fetal || cell line: fetal human lung fibroblast cell line MRC5
+3  || source_name: MRC5 || developmental stage: Fetal || cell line: fetal human lung fibroblast cell line MRC5
+   spots            platform layout strategy        SRA     phred
+1  72.1M Illumina HiSeq 4000      P  RNA-Seq SRA1067442 --phred33
+2 70.44M Illumina HiSeq 4000      P  RNA-Seq SRA1067442 --phred33
+3 76.12M Illumina HiSeq 4000      P  RNA-Seq SRA1067442 --phred33
+
+
+Determining strandedness of: SRR11576978 P --phred33
+
+Determining strandedness of: SRR11576979 P --phred33
+
+Determining strandedness of: SRR11576980 P --phred33
+[1] "SRR11576978.SAMPLE.sam"
+[1] "SRR11576979.SAMPLE.sam"
+[1] "SRR11576980.SAMPLE.sam"
+[infer_experiment.py]: SRR11576980 = paired-end; F = 0.4829, R = 0.4785
+[1] "[infer_experiment.py]: SRR11576980 unstranded"
+[infer_experiment.py]: SRR11576978 = paired-end; F = 0.4775, R = 0.4822
+[1] "[infer_experiment.py]: SRR11576978 unstranded"
+[infer_experiment.py]: SRR11576979 = paired-end; F = 0.4799, R = 0.4812
+[1] "[infer_experiment.py]: SRR11576979 unstranded"

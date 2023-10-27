@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:         run     study experiment cell other replicate treament sample_acc
+1 SRR8354418 GSE124118 SRX5165262 MRC5    NA         1 Parental SRS4174334
+2 SRR8354419 GSE124118 SRX5165263 MRC5    NA         2 Parental SRS4174335
+3 SRR8354420 GSE124118 SRX5165264 MRC5    NA         3 Parental SRS4174336
+                                    title
+1 GSM3521166: H211; Homo sapiens; RNA-Seq
+2 GSM3521167: H212; Homo sapiens; RNA-Seq
+3 GSM3521168: H213; Homo sapiens; RNA-Seq
+                                                                                    sample_attribute
+1  || source_name: lung || cell line: MRC-5 (ATCC, CCL-171) || hiv-1 infection: mock || tissue: lung
+2  || source_name: lung || cell line: MRC-5 (ATCC, CCL-171) || hiv-1 infection: mock || tissue: lung
+3  || source_name: lung || cell line: MRC-5 (ATCC, CCL-171) || hiv-1 infection: mock || tissue: lung
+   spots    platform layout strategy       SRA     phred
+1  41.2M NextSeq 500      S  RNA-Seq SRA825000 --phred33
+2 51.85M NextSeq 500      S  RNA-Seq SRA825000 --phred33
+3 33.94M NextSeq 500      S  RNA-Seq SRA825000 --phred33
+
+
+Determining strandedness of: SRR8354418 S --phred33
+
+Determining strandedness of: SRR8354419 S --phred33
+
+Determining strandedness of: SRR8354420 S --phred33
+[1] "SRR8354418.SAMPLE.sam"
+[1] "SRR8354419.SAMPLE.sam"
+[1] "SRR8354420.SAMPLE.sam"
+[infer_experiment.py]:SRR8354419 = single-end; F = 0.0120, R = 0.9502
+[1] "[infer_experiment.py]: SRR8354419 --rna-strandness R"
+[infer_experiment.py]:SRR8354420 = single-end; F = 0.0190, R = 0.9435
+[1] "[infer_experiment.py]: SRR8354420 --rna-strandness R"
+[infer_experiment.py]:SRR8354418 = single-end; F = 0.0234, R = 0.9386
+[1] "[infer_experiment.py]: SRR8354418 --rna-strandness R"

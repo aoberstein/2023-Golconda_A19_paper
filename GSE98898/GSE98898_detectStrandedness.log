@@ -1,0 +1,50 @@
+[detectStrandedness] input metadata:         run    study experiment   cell other replicate  treament sample_acc
+1 SRR5558489 GSE98898 SRX2821656 RWPE-1    NA         1 sgControl SRS2198798
+2 SRR5558490 GSE98898 SRX2821657 RWPE-1    NA         2 sgControl SRS2198799
+3 SRR5558491 GSE98898 SRX2821648 RWPE-1    NA         3 sgControl SRS2198790
+4 SRR5558492 GSE98898 SRX2821658 RWPE-1    NA         4 sgControl SRS2198800
+5 SRR5558493 GSE98898 SRX2821659 RWPE-1    NA         5 sgControl SRS2198801
+                                                    title
+1 GSM2627208: Control RNA-seq rep1; Homo sapiens; RNA-Seq
+2 GSM2627209: Control RNA-seq rep2; Homo sapiens; RNA-Seq
+3 GSM2627210: Control RNA-seq rep3; Homo sapiens; RNA-Seq
+4 GSM2627211: Control RNA-seq rep4; Homo sapiens; RNA-Seq
+5 GSM2627212: Control RNA-seq rep5; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+2  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+3  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+4  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+5  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+   spots    platform layout strategy       SRA     phred
+1 45.33M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+2 54.02M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+3 48.81M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+4  52.2M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+5 43.04M NextSeq 500      S  RNA-Seq SRA561771 --phred33
+
+
+Determining strandedness of: SRR5558489 S --phred33
+
+Determining strandedness of: SRR5558490 S --phred33
+
+Determining strandedness of: SRR5558491 S --phred33
+
+Determining strandedness of: SRR5558492 S --phred33
+
+Determining strandedness of: SRR5558493 S --phred33
+[1] "SRR5558489.SAMPLE.sam"
+[1] "SRR5558490.SAMPLE.sam"
+[1] "SRR5558491.SAMPLE.sam"
+[1][1] "SRR5558492.SAMPLE.sam"
+ "SRR5558493.SAMPLE.sam"
+[infer_experiment.py]:SRR5558492 = single-end; F = 0.0247, R = 0.9383
+[1] "[infer_experiment.py]: SRR5558492 --rna-strandness R"
+[infer_experiment.py]:SRR5558490 = single-end; F = 0.0285, R = 0.9366
+[1] "[infer_experiment.py]: SRR5558490 --rna-strandness R"
+[infer_experiment.py]:SRR5558493 = single-end; F = 0.0243, R = 0.9395
+[1] "[infer_experiment.py]: SRR5558493 --rna-strandness R"
+[infer_experiment.py]:SRR5558489 = single-end; F = 0.0241, R = 0.9397
+[1] "[infer_experiment.py]: SRR5558489 --rna-strandness R"
+[infer_experiment.py]:SRR5558491 = single-end; F = 0.0254, R = 0.9395
+[1] "[infer_experiment.py]: SRR5558491 --rna-strandness R"

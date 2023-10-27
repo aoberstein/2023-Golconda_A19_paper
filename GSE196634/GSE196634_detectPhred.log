@@ -1,0 +1,42 @@
+      study         run  experiment   cell other replicate treament  sample_acc
+1 GSE196634 SRR18004601 SRX14160182 RWPE-1    NA         1 Normoxia SRS11985355
+2 GSE196634 SRR18004600 SRX14160183 RWPE-1    NA         2 Normoxia SRS11985356
+3 GSE196634 SRR18004599 SRX14160184 RWPE-1    NA         3 Normoxia SRS11985357
+                                                   title
+1 GSM5897101: RWPE1 Normoxia rep1; Homo sapiens; RNA-Seq
+2 GSM5897102: RWPE1 Normoxia rep2; Homo sapiens; RNA-Seq
+3 GSM5897103: RWPE1 Normoxia rep3; Homo sapiens; RNA-Seq
+                                                                                                        sample_attribute
+1  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+2  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+3  || source_name: RWPE1 || cell line: RWPE1 || cell type: Immortalized prostate epithelial cell || treatment: untreated
+   spots    platform layout strategy        SRA
+1 34.55M NextSeq 500      S  RNA-Seq SRA1372027
+2 29.83M NextSeq 500      S  RNA-Seq SRA1372027
+3 33.98M NextSeq 500      S  RNA-Seq SRA1372027
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 3, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 3, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 3, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 3, numResults: 3, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:47:69"
+[1] "guess: --phred33:54:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

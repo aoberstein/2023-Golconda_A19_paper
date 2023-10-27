@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:          run     study experiment    cell  other replicate treament sample_acc
+1 SRR12795670 GSE159235 SRX9264736 ARPE-19 Maciej         1 Parental SRS7494313
+2 SRR12795671 GSE159235 SRX9264737 ARPE-19 Maciej         2 Parental SRS7494314
+                                      title
+1 GSM4824185: Mock_1; Homo sapiens; RNA-Seq
+2 GSM4824186: Mock_2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                sample_attribute
+1  || source_name: mock infected epithelial cells || cell type: human retinal pigment epithelial cells || cell line: ARPE-19 || passage: 24-30 || treatment: mock || virus accession number: N/A
+2  || source_name: mock infected epithelial cells || cell type: human retinal pigment epithelial cells || cell line: ARPE-19 || passage: 24-30 || treatment: mock || virus accession number: N/A
+   spots              platform layout strategy        SRA     phred
+1 28.33M Illumina NovaSeq 6000      P  RNA-Seq SRA1140353 --phred33
+2 19.75M Illumina NovaSeq 6000      P  RNA-Seq SRA1140353 --phred33
+
+
+Determining strandedness of: SRR12795670 P --phred33
+
+Determining strandedness of: SRR12795671 P --phred33
+[1] "SRR12795670.SAMPLE.sam"
+[1] "SRR12795671.SAMPLE.sam"
+[infer_experiment.py]: SRR12795670 = paired-end; F = 0.0194, R = 0.9438
+[1] "[infer_experiment.py]: SRR12795670 --rna-strandness RF"
+[infer_experiment.py]: SRR12795671 = paired-end; F = 0.0294, R = 0.9334
+[1] "[infer_experiment.py]: SRR12795671 --rna-strandness RF"

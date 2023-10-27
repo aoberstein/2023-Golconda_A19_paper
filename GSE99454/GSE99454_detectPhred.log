@@ -1,0 +1,122 @@
+     study        run experiment    cell other replicate treament sample_acc
+1 GSE99454 SRR5629569 SRX2869870 ARPE-19    AO         1 Parental SRS2240212
+2 GSE99454 SRR5629570 SRX2869870 ARPE-19    AO         1 Parental SRS2240212
+3 GSE99454 SRR5629571 SRX2869871    MRC5    AO         2 Parental SRS2240213
+4 GSE99454 SRR5629572 SRX2869871    MRC5    AO         2 Parental SRS2240213
+5 GSE99454 SRR5629577 SRX2869874    MRC5    AO         1 Parental SRS2240216
+6 GSE99454 SRR5629578 SRX2869874    MRC5    AO         1 Parental SRS2240216
+7 GSE99454 SRR5629579 SRX2869875 ARPE-19    AO         2 Parental SRS2240217
+8 GSE99454 SRR5629580 SRX2869875 ARPE-19    AO         2 Parental SRS2240217
+                                                       title
+1 GSM2644285: ARPE-19 mock rep1 24hpi; Homo sapiens; RNA-Seq
+2 GSM2644285: ARPE-19 mock rep1 24hpi; Homo sapiens; RNA-Seq
+3   GSM2644286: MRC-5 mock rep2 24hpi; Homo sapiens; RNA-Seq
+4   GSM2644286: MRC-5 mock rep2 24hpi; Homo sapiens; RNA-Seq
+5   GSM2644289: MRC-5 mock rep1 24hpi; Homo sapiens; RNA-Seq
+6   GSM2644289: MRC-5 mock rep1 24hpi; Homo sapiens; RNA-Seq
+7 GSM2644290: ARPE-19 mock rep2 24hpi; Homo sapiens; RNA-Seq
+8 GSM2644290: ARPE-19 mock rep2 24hpi; Homo sapiens; RNA-Seq
+                                                                                                    sample_attribute
+1    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 1
+2    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 1
+3  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 2
+4  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 2
+5  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 1
+6  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 1
+7    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 2
+8    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 2
+   spots            platform layout strategy       SRA
+1 17.57M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+2 17.93M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+3 12.24M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+4 10.01M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+5 17.84M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+6 18.19M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+7 11.87M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+8  8.48M Illumina HiSeq 2500      P  RNA-Seq SRA567826
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 16, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 16, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 16, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 16, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 16, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 16, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 16, numResults: 6, stopped: TRUE
+returning status FALSE
+got results for task 7
+numValues: 16, numResults: 7, stopped: TRUE
+returning status FALSE
+got results for task 8
+numValues: 16, numResults: 8, stopped: TRUE
+returning status FALSE
+got results for task 9
+numValues: 16, numResults: 9, stopped: TRUE
+returning status FALSE
+got results for task 10
+numValues: 16, numResults: 10, stopped: TRUE
+returning status FALSE
+got results for task 11
+numValues: 16, numResults: 11, stopped: TRUE
+returning status FALSE
+got results for task 12
+numValues: 16, numResults: 12, stopped: TRUE
+returning status FALSE
+got results for task 13
+numValues: 16, numResults: 13, stopped: TRUE
+returning status FALSE
+got results for task 14
+numValues: 16, numResults: 14, stopped: TRUE
+returning status FALSE
+got results for task 15
+numValues: 16, numResults: 15, stopped: TRUE
+returning status FALSE
+got results for task 16
+numValues: 16, numResults: 16, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6, result.7, result.8, result.9, result.10, result.11, 
+    result.12, result.13, result.14, result.15, result.16)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:49:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:47:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:48:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:48:73"
+[1] "guess: --phred33:47:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:47:73"
+[1] "guess: --phred33:47:73"
+[1] "guess: --phred33:35:73"
+[1] "guess: --phred33:35:35"
+ [1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [7] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [9] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[11] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[13] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[15] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

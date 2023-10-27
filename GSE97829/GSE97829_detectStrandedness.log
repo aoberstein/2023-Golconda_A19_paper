@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:         run    study experiment cell other replicate treament sample_acc
+1 SRR5448889 GSE97829 SRX2737721 MRC5    NA         1 Parental SRS2124965
+2 SRR5448890 GSE97829 SRX2737722 MRC5    NA         2 Parental SRS2124968
+3 SRR5448891 GSE97829 SRX2737723 MRC5    NA         3 Parental SRS2124967
+                                                                  title
+1 GSM2579109: MRC5 Control Replicate 1 [RNA-seq]; Homo sapiens; RNA-Seq
+2 GSM2579110: MRC5 Control Replicate 2 [RNA-seq]; Homo sapiens; RNA-Seq
+3 GSM2579111: MRC5 Control Replicate 3 [RNA-seq]; Homo sapiens; RNA-Seq
+                                                                                                                                                                                  sample_attribute
+1  || source_name: MRC5 human lung fibroblasts, control || strain: C57BL/6 || age: 9 - 12 wks || cell line: MRC5 || cell type: pulmonary fibroblast cell line || treatment: none || rin number: 10
+2  || source_name: MRC5 human lung fibroblasts, control || strain: C57BL/6 || age: 9 - 12 wks || cell line: MRC5 || cell type: pulmonary fibroblast cell line || treatment: none || rin number: 10
+3  || source_name: MRC5 human lung fibroblasts, control || strain: C57BL/6 || age: 9 - 12 wks || cell line: MRC5 || cell type: pulmonary fibroblast cell line || treatment: none || rin number: 10
+   spots    platform layout strategy       SRA     phred
+1 63.59M NextSeq 500      P  RNA-Seq SRA554322 --phred33
+2 57.39M NextSeq 500      P  RNA-Seq SRA554322 --phred33
+3 69.77M NextSeq 500      P  RNA-Seq SRA554322 --phred33
+
+
+Determining strandedness of: SRR5448889 P --phred33
+
+Determining strandedness of: SRR5448890 P --phred33
+
+Determining strandedness of: SRR5448891 P --phred33
+[1] "SRR5448889.SAMPLE.sam"
+[1] "SRR5448890.SAMPLE.sam"
+[1] "SRR5448891.SAMPLE.sam"
+[infer_experiment.py]: SRR5448890 = paired-end; F = 0.0101, R = 0.9591
+[1] "[infer_experiment.py]: SRR5448890 --rna-strandness RF"
+[infer_experiment.py]: SRR5448891 = paired-end; F = 0.0106, R = 0.9575
+[1] "[infer_experiment.py]: SRR5448891 --rna-strandness RF"
+[infer_experiment.py]: SRR5448889 = paired-end; F = 0.0101, R = 0.9588
+[1] "[infer_experiment.py]: SRR5448889 --rna-strandness RF"

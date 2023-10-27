@@ -1,0 +1,68 @@
+      study         run  experiment    cell other replicate treament
+1 GSE207158 SRR19895502 SRX15938549 ARPE-19    NA         1 Parental
+2 GSE207158 SRR19895503 SRX15938549 ARPE-19    NA         1 Parental
+3 GSE207158 SRR19895500 SRX15938550 ARPE-19    NA         2 Parental
+4 GSE207158 SRR19895501 SRX15938550 ARPE-19    NA         2 Parental
+5 GSE207158 SRR19895498 SRX15938551 ARPE-19    NA         3 Parental
+6 GSE207158 SRR19895499 SRX15938551 ARPE-19    NA         3 Parental
+   sample_acc                                                  title
+1 SRS13625732 GSM6280650: Wildtype biol rep 1; Homo sapiens; RNA-Seq
+2 SRS13625732 GSM6280650: Wildtype biol rep 1; Homo sapiens; RNA-Seq
+3 SRS13625733 GSM6280651: Wildtype biol rep 2; Homo sapiens; RNA-Seq
+4 SRS13625733 GSM6280651: Wildtype biol rep 2; Homo sapiens; RNA-Seq
+5 SRS13625734 GSM6280652: Wildtype biol rep 3; Homo sapiens; RNA-Seq
+6 SRS13625734 GSM6280652: Wildtype biol rep 3; Homo sapiens; RNA-Seq
+                                                                                                                                                    sample_attribute
+1  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+2  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+3  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+4  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+5  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+6  || source_name: ARPE19 || cell line: ARPE19 || cell type: retinal pigment epithelial cells || genotype: wildtype || treatment: Regular maintenance || time: Day 3
+   spots              platform layout strategy        SRA
+1 22.55M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910
+2 22.91M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910
+3 21.06M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910
+4 21.45M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910
+5 20.71M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910
+6 21.04M Illumina NovaSeq 6000      S  RNA-Seq SRA1445910
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

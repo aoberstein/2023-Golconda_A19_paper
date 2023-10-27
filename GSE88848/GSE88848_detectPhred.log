@@ -1,0 +1,56 @@
+     study        run experiment    cell other replicate treament sample_acc
+1 GSE88848 SRR4427911 SRX2249434 ARPE-19    4d         1 Parental SRS1749415
+2 GSE88848 SRR4427912 SRX2249435 ARPE-19    4d         2 Parental SRS1749416
+3 GSE88848 SRR4427913 SRX2249436 ARPE-19    4d         3 Parental SRS1749417
+                                           title
+1 GSM2350066: 4 day, rep1; Homo sapiens; RNA-Seq
+2 GSM2350067: 4 day, rep2; Homo sapiens; RNA-Seq
+3 GSM2350068: 4 day, rep3; Homo sapiens; RNA-Seq
+                                                                                                                                      sample_attribute
+1  || source_name: ARPE-19 cells, 4 days || cell line: ARPE-19 || cell type: retinal pigment epithelial (RPE) cell line || duration of culture: 4 days
+2  || source_name: ARPE-19 cells, 4 days || cell line: ARPE-19 || cell type: retinal pigment epithelial (RPE) cell line || duration of culture: 4 days
+3  || source_name: ARPE-19 cells, 4 days || cell line: ARPE-19 || cell type: retinal pigment epithelial (RPE) cell line || duration of culture: 4 days
+   spots            platform layout strategy       SRA
+1 96.79M Illumina HiSeq 2500      P  RNA-Seq SRA485452
+2 94.83M Illumina HiSeq 2500      P  RNA-Seq SRA485452
+3 86.07M Illumina HiSeq 2500      P  RNA-Seq SRA485452
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:64"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:66"
+[1] "guess: --phred33:35:74"
+[1] "guess: --phred33:35:74"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

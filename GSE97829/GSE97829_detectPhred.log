@@ -1,0 +1,56 @@
+     study        run experiment cell other replicate treament sample_acc
+1 GSE97829 SRR5448889 SRX2737721 MRC5    NA         1 Parental SRS2124965
+2 GSE97829 SRR5448890 SRX2737722 MRC5    NA         2 Parental SRS2124968
+3 GSE97829 SRR5448891 SRX2737723 MRC5    NA         3 Parental SRS2124967
+                                                                  title
+1 GSM2579109: MRC5 Control Replicate 1 [RNA-seq]; Homo sapiens; RNA-Seq
+2 GSM2579110: MRC5 Control Replicate 2 [RNA-seq]; Homo sapiens; RNA-Seq
+3 GSM2579111: MRC5 Control Replicate 3 [RNA-seq]; Homo sapiens; RNA-Seq
+                                                                                                                                                                                  sample_attribute
+1  || source_name: MRC5 human lung fibroblasts, control || strain: C57BL/6 || age: 9 - 12 wks || cell line: MRC5 || cell type: pulmonary fibroblast cell line || treatment: none || rin number: 10
+2  || source_name: MRC5 human lung fibroblasts, control || strain: C57BL/6 || age: 9 - 12 wks || cell line: MRC5 || cell type: pulmonary fibroblast cell line || treatment: none || rin number: 10
+3  || source_name: MRC5 human lung fibroblasts, control || strain: C57BL/6 || age: 9 - 12 wks || cell line: MRC5 || cell type: pulmonary fibroblast cell line || treatment: none || rin number: 10
+   spots    platform layout strategy       SRA
+1 63.59M NextSeq 500      P  RNA-Seq SRA554322
+2 57.39M NextSeq 500      P  RNA-Seq SRA554322
+3 69.77M NextSeq 500      P  RNA-Seq SRA554322
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 6, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 6, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 6, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 6, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 6, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 6, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 6, numResults: 6, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

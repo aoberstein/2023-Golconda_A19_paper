@@ -1,0 +1,96 @@
+      study         run  experiment   cell other replicate treament  sample_acc
+1 GSE209545 SRR20414486 SRX16447092 MCF10A    NA         1   Vector SRS14083811
+2 GSE209545 SRR20414485 SRX16447093 MCF10A    NA         2   Vector SRS14083810
+3 GSE209545 SRR20414484 SRX16447094 MCF10A    NA         3   Vector SRS14083812
+4 GSE209545 SRR20414483 SRX16447095 MCF10A    NA         1 Parental SRS14083813
+5 GSE209545 SRR20414482 SRX16447096 MCF10A    NA         2 Parental SRS14083814
+6 GSE209545 SRR20414481 SRX16447097 MCF10A    NA         3 Parental SRS14083815
+                                                                 title
+1 GSM6376708: Empty vector biol rep 1 [M10AEV1]; Homo sapiens; RNA-Seq
+2 GSM6376709: Empty vector biol rep 2 [M10AEV2]; Homo sapiens; RNA-Seq
+3 GSM6376710: Empty vector biol rep 3 [M10AEV3]; Homo sapiens; RNA-Seq
+4      GSM6376711: Parental biol rep 1 [M10AP1]; Homo sapiens; RNA-Seq
+5      GSM6376712: Parental biol rep 2 [M10AP2]; Homo sapiens; RNA-Seq
+6      GSM6376713: Parental biol rep 3 [M10AP3]; Homo sapiens; RNA-Seq
+                                                                                                                 sample_attribute
+1        || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: EV || treatment: none
+2        || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: EV || treatment: none
+3        || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: EV || treatment: none
+4  || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: Parental || treatment: none
+5  || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: Parental || treatment: none
+6  || source_name: breast || tissue: breast || cell line: MCF10 || cell type: epithelial || genotype: Parental || treatment: none
+   spots              platform layout strategy        SRA
+1 70.14M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522
+2 67.23M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522
+3 65.58M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522
+4 69.18M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522
+5 78.33M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522
+6 56.82M Illumina NovaSeq 6000      P  RNA-Seq SRA1461522
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 12, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 12, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 12, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 12, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 12, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 12, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 12, numResults: 6, stopped: TRUE
+returning status FALSE
+got results for task 7
+numValues: 12, numResults: 7, stopped: TRUE
+returning status FALSE
+got results for task 8
+numValues: 12, numResults: 8, stopped: TRUE
+returning status FALSE
+got results for task 9
+numValues: 12, numResults: 9, stopped: TRUE
+returning status FALSE
+got results for task 10
+numValues: 12, numResults: 10, stopped: TRUE
+returning status FALSE
+got results for task 11
+numValues: 12, numResults: 11, stopped: TRUE
+returning status FALSE
+got results for task 12
+numValues: 12, numResults: 12, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6, result.7, result.8, result.9, result.10, result.11, 
+    result.12)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:35:70"
+ [1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [7] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [9] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[11] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

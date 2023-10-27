@@ -1,0 +1,42 @@
+      study         run  experiment   cell other replicate treament  sample_acc
+1 GSE213882 SRR21660898 SRX17660622 MCF10A    NA         1      dox SRS15192861
+2 GSE213882 SRR21660897 SRX17660623 MCF10A    NA         2      dox SRS15192863
+                                                                         title
+1 GSM6595756: MCF10A cells, Control, 18 hours Dox rep 1; Homo sapiens; RNA-Seq
+2 GSM6595757: MCF10A cells, Control, 18 hours Dox rep 2; Homo sapiens; RNA-Seq
+                                                                                                                             sample_attribute
+1  || source_name: MCF10A || cell line: MCF10A || cell type: mammary epithelial cells || genotype: WT || treatment: Doxycycline || time: 18 h
+2  || source_name: MCF10A || cell line: MCF10A || cell type: mammary epithelial cells || genotype: WT || treatment: Doxycycline || time: 18 h
+   spots            platform layout strategy        SRA
+1 20.19M Illumina HiSeq 4000      P  RNA-Seq SRA1503119
+2 19.76M Illumina HiSeq 4000      P  RNA-Seq SRA1503119
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:44:70"
+[1] "guess: --phred33:35:70"
+[1] "guess: --phred33:58:70"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

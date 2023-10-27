@@ -1,0 +1,3 @@
+"run"	"study"	"experiment"	"cell"	"other"	"replicate"	"treament"	"sample_acc"	"title"	"sample_attribute"	"spots"	"platform"	"layout"	"strategy"	"SRA"	"phred"
+"SRR17230995"	"GSE190929"	"SRX13410105"	"MRC5"	NA	2	"Vehicle"	"SRS11312719"	"GSM5734419: MRC5-veh-A; Homo sapiens; RNA-Seq"	" || source_name: lung fibroblast || tissue: lung || cell type: fibroblast || treatment: vehicle"	"28.3M"	"Illumina NovaSeq 6000"	"P"	"RNA-Seq"	"SRA1511922"	"--phred33"
+"SRR17230998"	"GSE190929"	"SRX13410102"	"MRC5"	NA	1	"Vehicle"	"SRS11312716"	"GSM5734420: MRC5-veh-C; Homo sapiens; RNA-Seq"	" || source_name: lung fibroblast || tissue: lung || cell type: fibroblast || treatment: vehicle"	"23.61M"	"Illumina NovaSeq 6000"	"P"	"RNA-Seq"	"SRA1511922"	"--phred33"

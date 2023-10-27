@@ -1,0 +1,61 @@
+     study        run experiment   cell other replicate treament sample_acc
+1 GSE75035 SRR2919800 SRX1433418 RWPE-1    NA         1      Scr SRS1164406
+2 GSE75035 SRR2919803 SRX1433421 RWPE-1    NA         2      Scr SRS1164404
+                                            title
+1 GSM1941110: RWPE-1_Scr_1; Homo sapiens; RNA-Seq
+2 GSM1941113: RWPE-1_Scr_2; Homo sapiens; RNA-Seq
+                                                                                                                                            sample_attribute
+1  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+2  || source_name: RWPE-1_Scr || cell line: RWPE-1 || cell type: normal prostate epithelium cell line || transfected with: scrambled siRNA || antibody: none
+  spots            platform layout strategy       SRA
+1 7.82M Illumina HiSeq 2000      P  RNA-Seq SRA311786
+2 6.54M Illumina HiSeq 2000      P  RNA-Seq SRA311786
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 8, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 8, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 8, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 8, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 8, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 8, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 8, numResults: 6, stopped: TRUE
+returning status FALSE
+got results for task 7
+numValues: 8, numResults: 7, stopped: TRUE
+returning status FALSE
+got results for task 8
+numValues: 8, numResults: 8, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6, result.7, result.8)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:57:74"
+[1] "guess: --phred33:57:74"
+[1] "guess: --phred33:53:74"
+[1] "guess: --phred33:53:74"
+[1] "guess: --phred33:40:74"
+[1] "guess: --phred33:40:74"
+[1] "guess: --phred33:53:74"
+[1] "guess: --phred33:53:74"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[7] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

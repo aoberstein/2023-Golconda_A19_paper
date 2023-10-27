@@ -1,0 +1,42 @@
+      study        run experiment   cell other replicate treament sample_acc
+1 GSE128399 SRR8735116 SRX5527897 RWPE-1    NA         1 Parental SRS4494448
+2 GSE128399 SRR8735117 SRX5527898 RWPE-1    NA         2 Parental SRS4494449
+                                                    title
+1 GSM3673649: RWPE-1 RNA-seq Rep 1; Homo sapiens; RNA-Seq
+2 GSM3673650: RWPE-1 RNA-seq Rep 2; Homo sapiens; RNA-Seq
+                                                                                                              sample_attribute
+1  || source_name: Normal prostate cells || cell line: RWPE-1 || cell type: Prostate cell line || genotype/variation: Parental
+2  || source_name: Normal prostate cells || cell line: RWPE-1 || cell type: Prostate cell line || genotype/variation: Parental
+   spots            platform layout strategy       SRA
+1 31.36M Illumina HiSeq 2500      P  RNA-Seq SRA861328
+2 43.26M Illumina HiSeq 2500      P  RNA-Seq SRA861328
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:45:71"
+[1] "guess: --phred33:46:71"
+[1] "guess: --phred33:46:71"
+[1] "guess: --phred33:45:71"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

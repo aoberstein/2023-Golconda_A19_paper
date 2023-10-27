@@ -1,0 +1,59 @@
+     study        run experiment   cell other replicate  treament sample_acc
+1 GSE98898 SRR5558491 SRX2821648 RWPE-1    NA         3 sgControl SRS2198790
+2 GSE98898 SRR5558489 SRX2821656 RWPE-1    NA         1 sgControl SRS2198798
+3 GSE98898 SRR5558490 SRX2821657 RWPE-1    NA         2 sgControl SRS2198799
+4 GSE98898 SRR5558492 SRX2821658 RWPE-1    NA         4 sgControl SRS2198800
+5 GSE98898 SRR5558493 SRX2821659 RWPE-1    NA         5 sgControl SRS2198801
+                                                    title
+1 GSM2627210: Control RNA-seq rep3; Homo sapiens; RNA-Seq
+2 GSM2627208: Control RNA-seq rep1; Homo sapiens; RNA-Seq
+3 GSM2627209: Control RNA-seq rep2; Homo sapiens; RNA-Seq
+4 GSM2627211: Control RNA-seq rep4; Homo sapiens; RNA-Seq
+5 GSM2627212: Control RNA-seq rep5; Homo sapiens; RNA-Seq
+                                                                                                               sample_attribute
+1  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+2  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+3  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+4  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+5  || source_name: Control || cell line: prostate cell line RWPE1 || treatment: Genome Editing || genotype/variation: wild type
+   spots    platform layout strategy       SRA
+1 48.81M NextSeq 500      S  RNA-Seq SRA561771
+2 45.33M NextSeq 500      S  RNA-Seq SRA561771
+3 54.02M NextSeq 500      S  RNA-Seq SRA561771
+4  52.2M NextSeq 500      S  RNA-Seq SRA561771
+5 43.04M NextSeq 500      S  RNA-Seq SRA561771
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 5, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 5, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 5, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 5, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 5, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 5, numResults: 5, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[5] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

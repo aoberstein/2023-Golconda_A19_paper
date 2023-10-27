@@ -1,0 +1,4 @@
+study	run	experiment	cell	other	replicate	treament	sample_acc	title	sample_attribute	spots	platform	layout	strategy	SRA
+GSE175787	SRR14685254	SRX11023595	MCF10A	NA	1	Parental	SRS9095529	GSM5348030: MCF10A wild type replicate 1; Homo sapiens; RNA-Seq	 || source_name: cell line || cell line: MCF10A || genotype: wild-type	82.66M	Illumina HiSeq 4000	P	RNA-Seq	SRA1238531
+GSE175787	SRR14685255	SRX11023596	MCF10A	NA	2	Parental	SRS9095528	GSM5348031: MCF10A wild type replicate 2; Homo sapiens; RNA-Seq	 || source_name: cell line || cell line: MCF10A || genotype: wild-type	70.93M	Illumina HiSeq 4000	P	RNA-Seq	SRA1238531
+GSE175787	SRR14685256	SRX11023597	MCF10A	NA	3	Parental	SRS9095532	GSM5348032: MCF10A wild type replicate 3; Homo sapiens; RNA-Seq	 || source_name: cell line || cell line: MCF10A || genotype: wild-type	71.24M	Illumina HiSeq 4000	P	RNA-Seq	SRA1238531

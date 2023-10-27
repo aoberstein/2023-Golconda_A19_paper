@@ -1,0 +1,32 @@
+[detectStrandedness] input metadata:         run    study experiment cell other replicate treament sample_acc
+1 SRR1560895 GSE60883  SRX689250 MRC5    NA         1 Parental  SRS691745
+2 SRR1560896 GSE60883  SRX689251 MRC5    NA         2 Parental  SRS691746
+3 SRR1560897 GSE60883  SRX689252 MRC5    NA         3 Parental  SRS691747
+                                            title
+1 GSM1492877: MRC_5_PD32_1; Homo sapiens; RNA-Seq
+2 GSM1492878: MRC_5_PD32_2; Homo sapiens; RNA-Seq
+3 GSM1492879: MRC_5_PD32_3; Homo sapiens; RNA-Seq
+                                                                                                                               sample_attribute
+1  || source_name: total RNA extracted from MRC-5 fibroblasts || population doublings: 32 || cell type: MRC-5 fibroblasts || treatment: control
+2  || source_name: total RNA extracted from MRC-5 fibroblasts || population doublings: 32 || cell type: MRC-5 fibroblasts || treatment: control
+3  || source_name: total RNA extracted from MRC-5 fibroblasts || population doublings: 32 || cell type: MRC-5 fibroblasts || treatment: control
+   spots            platform layout strategy       SRA     phred
+1 39.24M Illumina HiSeq 2000      S  RNA-Seq SRA180543 --phred33
+2 43.06M Illumina HiSeq 2000      S  RNA-Seq SRA180543 --phred33
+3 43.15M Illumina HiSeq 2000      S  RNA-Seq SRA180543 --phred33
+
+
+Determining strandedness of: SRR1560895 S --phred33
+
+Determining strandedness of: SRR1560896 S --phred33
+
+Determining strandedness of: SRR1560897 S --phred33
+[1] "SRR1560895.SAMPLE.sam"
+[1] "SRR1560896.SAMPLE.sam"
+[1] "SRR1560897.SAMPLE.sam"
+[infer_experiment.py]:SRR1560896 = single-end; F = 0.4768, R = 0.4828
+[1] "[infer_experiment.py]: SRR1560896 unstranded"
+[infer_experiment.py]:SRR1560897 = single-end; F = 0.4792, R = 0.4783
+[1] "[infer_experiment.py]: SRR1560897 unstranded"
+[infer_experiment.py]:SRR1560895 = single-end; F = 0.4810, R = 0.4763
+[1] "[infer_experiment.py]: SRR1560895 unstranded"

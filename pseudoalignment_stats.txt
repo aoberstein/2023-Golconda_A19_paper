@@ -1,0 +1,333 @@
+	"p_pseudoaligned": 86.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR20414485 -b 30 --rf-stranded -t 30 SRR20414485_1.fastq SRR20414485_2.fastq"
+\n
+	"p_pseudoaligned": 87.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR20414484 -b 30 --rf-stranded -t 30 SRR20414484_1.fastq SRR20414484_2.fastq"
+\n
+	"p_pseudoaligned": 87.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR20414482 -b 30 --rf-stranded -t 30 SRR20414482_1.fastq SRR20414482_2.fastq"
+\n
+	"p_pseudoaligned": 88.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR20414483 -b 30 --rf-stranded -t 30 SRR20414483_1.fastq SRR20414483_2.fastq"
+\n
+	"p_pseudoaligned": 87.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR20414486 -b 30 --rf-stranded -t 30 SRR20414486_1.fastq SRR20414486_2.fastq"
+\n
+	"p_pseudoaligned": 86.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR20414481 -b 30 --rf-stranded -t 30 SRR20414481_1.fastq SRR20414481_2.fastq"
+\n
+	"p_pseudoaligned": 92.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12006112 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR12006112_1.fastq"
+\n
+	"p_pseudoaligned": 92.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12006110 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR12006110_1.fastq"
+\n
+	"p_pseudoaligned": 92.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12006109 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR12006109_1.fastq"
+\n
+	"p_pseudoaligned": 92.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12006111 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR12006111_1.fastq"
+\n
+	"p_pseudoaligned": 92.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17321381 -b 30 -t 30 SRR17321381_1.fastq SRR17321381_2.fastq"
+\n
+	"p_pseudoaligned": 92.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17321382 -b 30 -t 30 SRR17321382_1.fastq SRR17321382_2.fastq"
+\n
+	"p_pseudoaligned": 91.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17321383 -b 30 -t 30 SRR17321383_1.fastq SRR17321383_2.fastq"
+\n
+	"p_pseudoaligned": 87.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17130487 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR17130487_1.fastq"
+\n
+	"p_pseudoaligned": 81.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17130488 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR17130488_1.fastq"
+\n
+	"p_pseudoaligned": 83.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17130486 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR17130486_1.fastq"
+\n
+	"p_pseudoaligned": 87.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR18004601 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR18004601_1.fastq"
+\n
+	"p_pseudoaligned": 87.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR18004600 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR18004600_1.fastq"
+\n
+	"p_pseudoaligned": 87.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR18004599 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR18004599_1.fastq"
+\n
+	"p_pseudoaligned": 79.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558493 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR5558493_1.fastq"
+\n
+	"p_pseudoaligned": 81.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558489 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR5558489_1.fastq"
+\n
+	"p_pseudoaligned": 80.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558490 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR5558490_1.fastq"
+\n
+	"p_pseudoaligned": 80.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558491 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR5558491_1.fastq"
+\n
+	"p_pseudoaligned": 79.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5558492 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR5558492_1.fastq"
+\n
+	"p_pseudoaligned": 80.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12193641 --single -l 200 -s 20 -b 30 --fr-stranded -t 30 ./SRR12193641_1.fastq"
+\n
+	"p_pseudoaligned": 82.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12193640 --single -l 200 -s 20 -b 30 --fr-stranded -t 30 ./SRR12193640_1.fastq"
+\n
+	"p_pseudoaligned": 82.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12193639 --single -l 200 -s 20 -b 30 --fr-stranded -t 30 ./SRR12193639_1.fastq"
+\n
+	"p_pseudoaligned": 69.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8032315 -b 30 --fr-stranded -t 30 SRR8032315_1.fastq SRR8032315_2.fastq"
+\n
+	"p_pseudoaligned": 39.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8032317 -b 30 --fr-stranded -t 30 SRR8032317_1.fastq SRR8032317_2.fastq"
+\n
+	"p_pseudoaligned": 43.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8032316 -b 30 --fr-stranded -t 30 SRR8032316_1.fastq SRR8032316_2.fastq"
+\n
+	"p_pseudoaligned": 76.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8032314 -b 30 --fr-stranded -t 30 SRR8032314_1.fastq SRR8032314_2.fastq"
+\n
+	"p_pseudoaligned": 42.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8032316___SRR8032317 -b 30 --fr-stranded -t 30 SRR8032316_1.fastq SRR8032316_2.fastq SRR8032317_1.fastq SRR8032317_2.fastq"
+\n
+	"p_pseudoaligned": 89.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21010131 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR21010131_1.fastq"
+\n
+	"p_pseudoaligned": 89.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21010133 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR21010133_1.fastq"
+\n
+	"p_pseudoaligned": 89.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21010132 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR21010132_1.fastq"
+\n
+	"p_pseudoaligned": 56.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5807527___SRR5807528___SRR5807529___SRR5807530 -b 30 --rf-stranded -t 30 SRR5807527_1.fastq SRR5807527_2.fastq SRR5807528_1.fastq SRR5807528_2.fastq SRR5807529_1.fastq SRR5807529_2.fastq SRR5807530_1.fastq SRR5807530_2.fastq"
+\n
+	"p_pseudoaligned": 41.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5807535___SRR5807536___SRR5807537___SRR5807538 -b 30 --rf-stranded -t 30 SRR5807535_1.fastq SRR5807535_2.fastq SRR5807536_1.fastq SRR5807536_2.fastq SRR5807537_1.fastq SRR5807537_2.fastq SRR5807538_1.fastq SRR5807538_2.fastq"
+\n
+	"p_pseudoaligned": 43.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5807531___SRR5807532___SRR5807533___SRR5807534 -b 30 --rf-stranded -t 30 SRR5807531_1.fastq SRR5807531_2.fastq SRR5807532_1.fastq SRR5807532_2.fastq SRR5807533_1.fastq SRR5807533_2.fastq SRR5807534_1.fastq SRR5807534_2.fastq"
+\n
+	"p_pseudoaligned": 83.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR2919803 -b 30 -t 30 SRR2919803_1.fastq SRR2919803_2.fastq"
+\n
+	"p_pseudoaligned": 82.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR2919800 -b 30 -t 30 SRR2919800_1.fastq SRR2919800_2.fastq"
+\n
+	"p_pseudoaligned": 84.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8595048 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8595048_1.fastq"
+\n
+	"p_pseudoaligned": 82.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8595046 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8595046_1.fastq"
+\n
+	"p_pseudoaligned": 85.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8595047 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8595047_1.fastq"
+\n
+	"p_pseudoaligned": 93.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR11576980 -b 30 -t 30 SRR11576980_1.fastq SRR11576980_2.fastq"
+\n
+	"p_pseudoaligned": 93.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR11576978 -b 30 -t 30 SRR11576978_1.fastq SRR11576978_2.fastq"
+\n
+	"p_pseudoaligned": 93.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR11576979 -b 30 -t 30 SRR11576979_1.fastq SRR11576979_2.fastq"
+\n
+	"p_pseudoaligned": 90.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12626560 -b 30 -t 30 SRR12626560_1.fastq SRR12626560_2.fastq"
+\n
+	"p_pseudoaligned": 91.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12626558 -b 30 -t 30 SRR12626558_1.fastq SRR12626558_2.fastq"
+\n
+	"p_pseudoaligned": 91.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12626559 -b 30 -t 30 SRR12626559_1.fastq SRR12626559_2.fastq"
+\n
+	"p_pseudoaligned": 87.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR6856295 -b 30 -t 30 SRR6856295_1.fastq SRR6856295_2.fastq"
+\n
+	"p_pseudoaligned": 86.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR6856297 -b 30 -t 30 SRR6856297_1.fastq SRR6856297_2.fastq"
+\n
+	"p_pseudoaligned": 85.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR6856296 -b 30 -t 30 SRR6856296_1.fastq SRR6856296_2.fastq"
+\n
+	"p_pseudoaligned": 90.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR14685256 -b 30 --rf-stranded -t 30 SRR14685256_1.fastq SRR14685256_2.fastq"
+\n
+	"p_pseudoaligned": 89.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR14685254 -b 30 --rf-stranded -t 30 SRR14685254_1.fastq SRR14685254_2.fastq"
+\n
+	"p_pseudoaligned": 88.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR14685255 -b 30 --rf-stranded -t 30 SRR14685255_1.fastq SRR14685255_2.fastq"
+\n
+	"p_pseudoaligned": 66.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12795671 -b 30 --rf-stranded -t 30 SRR12795671_1.fastq SRR12795671_2.fastq"
+\n
+	"p_pseudoaligned": 72.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR12795670 -b 30 --rf-stranded -t 30 SRR12795670_1.fastq SRR12795670_2.fastq"
+\n
+	"p_pseudoaligned": 66.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8354420 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8354420_1.fastq"
+\n
+	"p_pseudoaligned": 77.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8354419 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8354419_1.fastq"
+\n
+	"p_pseudoaligned": 55.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8354418 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8354418_1.fastq"
+\n
+	"p_pseudoaligned": 93.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR13084732 -b 30 -t 30 SRR13084732_1.fastq SRR13084732_2.fastq"
+\n
+	"p_pseudoaligned": 93.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR13084733 -b 30 -t 30 SRR13084733_1.fastq SRR13084733_2.fastq"
+\n
+	"p_pseudoaligned": 20.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR15671423 -b 30 --rf-stranded -t 30 SRR15671423_1.fastq SRR15671423_2.fastq"
+\n
+	"p_pseudoaligned": 16.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR15671425 -b 30 --rf-stranded -t 30 SRR15671425_1.fastq SRR15671425_2.fastq"
+\n
+	"p_pseudoaligned": 81.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5448889 -b 30 --rf-stranded -t 30 SRR5448889_1.fastq SRR5448889_2.fastq"
+\n
+	"p_pseudoaligned": 80.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5448890 -b 30 --rf-stranded -t 30 SRR5448890_1.fastq SRR5448890_2.fastq"
+\n
+	"p_pseudoaligned": 80.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5448891 -b 30 --rf-stranded -t 30 SRR5448891_1.fastq SRR5448891_2.fastq"
+\n
+	"p_pseudoaligned": 75.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10766046 -b 30 --rf-stranded -t 30 SRR10766046_1.fastq SRR10766046_2.fastq"
+\n
+	"p_pseudoaligned": 79.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10766048 -b 30 --rf-stranded -t 30 SRR10766048_1.fastq SRR10766048_2.fastq"
+\n
+	"p_pseudoaligned": 80.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10766047 -b 30 --rf-stranded -t 30 SRR10766047_1.fastq SRR10766047_2.fastq"
+\n
+	"p_pseudoaligned": 79.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8446409 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8446409_1.fastq"
+\n
+	"p_pseudoaligned": 78.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8446410 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8446410_1.fastq"
+\n
+	"p_pseudoaligned": 79.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8446411 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR8446411_1.fastq"
+\n
+	"p_pseudoaligned": 92.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR19895502___SRR19895503 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR19895502_1.fastq ./SRR19895503_1.fastq"
+\n
+	"p_pseudoaligned": 91.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR19895500___SRR19895501 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR19895500_1.fastq ./SRR19895501_1.fastq"
+\n
+	"p_pseudoaligned": 90.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR19895498___SRR19895499 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR19895498_1.fastq ./SRR19895499_1.fastq"
+\n
+	"p_pseudoaligned": 85.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR7988022 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR7988022_1.fastq"
+\n
+	"p_pseudoaligned": 86.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR7988024 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR7988024_1.fastq"
+\n
+	"p_pseudoaligned": 85.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR7988026 --single -l 200 -s 20 -b 30 --rf-stranded -t 30 ./SRR7988026_1.fastq"
+\n
+	"p_pseudoaligned": 75.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10575173 -b 30 --rf-stranded -t 30 SRR10575173_1.fastq SRR10575173_2.fastq"
+\n
+	"p_pseudoaligned": 78.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10575174 -b 30 --rf-stranded -t 30 SRR10575174_1.fastq SRR10575174_2.fastq"
+\n
+	"p_pseudoaligned": 83.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR10575172 -b 30 --rf-stranded -t 30 SRR10575172_1.fastq SRR10575172_2.fastq"
+\n
+	"p_pseudoaligned": 88.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR19033105 -b 30 -t 30 SRR19033105_1.fastq SRR19033105_2.fastq"
+\n
+	"p_pseudoaligned": 87.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR19033106 -b 30 -t 30 SRR19033106_1.fastq SRR19033106_2.fastq"
+\n
+	"p_pseudoaligned": 87.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR19033104 -b 30 -t 30 SRR19033104_1.fastq SRR19033104_2.fastq"
+\n
+	"p_pseudoaligned": 92.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR3533004 --single -l 200 -s 20 -b 30 -t 30 ./SRR3533004_1.fastq"
+\n
+	"p_pseudoaligned": 91.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR3533005 --single -l 200 -s 20 -b 30 -t 30 ./SRR3533005_1.fastq"
+\n
+	"p_pseudoaligned": 92.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR3533003 --single -l 200 -s 20 -b 30 -t 30 ./SRR3533003_1.fastq"
+\n
+	"p_pseudoaligned": 84.6,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8735116 -b 30 --rf-stranded -t 30 SRR8735116_1.fastq SRR8735116_2.fastq"
+\n
+	"p_pseudoaligned": 83.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR8735117 -b 30 --rf-stranded -t 30 SRR8735117_1.fastq SRR8735117_2.fastq"
+\n
+	"p_pseudoaligned": 80.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR4427911 -b 30 --rf-stranded -t 30 SRR4427911_1.fastq SRR4427911_2.fastq"
+\n
+	"p_pseudoaligned": 78.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR4427912 -b 30 --rf-stranded -t 30 SRR4427912_1.fastq SRR4427912_2.fastq"
+\n
+	"p_pseudoaligned": 79.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR4427913 -b 30 --rf-stranded -t 30 SRR4427913_1.fastq SRR4427913_2.fastq"
+\n
+	"p_pseudoaligned": 94.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR9114344 -b 30 -t 30 SRR9114344_1.fastq SRR9114344_2.fastq"
+\n
+	"p_pseudoaligned": 93.2,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR9114345 -b 30 -t 30 SRR9114345_1.fastq SRR9114345_2.fastq"
+\n
+	"p_pseudoaligned": 91.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21660897 -b 30 -t 30 SRR21660897_1.fastq SRR21660897_2.fastq"
+\n
+	"p_pseudoaligned": 91.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21660898 -b 30 -t 30 SRR21660898_1.fastq SRR21660898_2.fastq"
+\n
+	"p_pseudoaligned": 85.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR16993449 -b 30 --rf-stranded -t 30 SRR16993449_1.fastq SRR16993449_2.fastq"
+\n
+	"p_pseudoaligned": 89.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR16993450 -b 30 --rf-stranded -t 30 SRR16993450_1.fastq SRR16993450_2.fastq"
+\n
+	"p_pseudoaligned": 87.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR1560895 --single -l 200 -s 20 -b 30 -t 30 ./SRR1560895_1.fastq"
+\n
+	"p_pseudoaligned": 80.9,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR1560896 --single -l 200 -s 20 -b 30 -t 30 ./SRR1560896_1.fastq"
+\n
+	"p_pseudoaligned": 86.5,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR1560897 --single -l 200 -s 20 -b 30 -t 30 ./SRR1560897_1.fastq"
+\n
+	"p_pseudoaligned": 85.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR7969291 -b 30 --rf-stranded -t 30 SRR7969291_1.fastq SRR7969291_2.fastq"
+\n
+	"p_pseudoaligned": 85.1,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR7969292 -b 30 --rf-stranded -t 30 SRR7969292_1.fastq SRR7969292_2.fastq"
+\n
+	"p_pseudoaligned": 85.3,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR7969290 -b 30 --rf-stranded -t 30 SRR7969290_1.fastq SRR7969290_2.fastq"
+\n
+	"p_pseudoaligned": 89.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17230995 -b 30 --rf-stranded -t 30 SRR17230995_1.fastq SRR17230995_2.fastq"
+\n
+	"p_pseudoaligned": 90.8,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR17230998 -b 30 --rf-stranded -t 30 SRR17230998_1.fastq SRR17230998_2.fastq"
+\n
+	"p_pseudoaligned": 50.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5629569___SRR5629570 -b 30 --rf-stranded -t 30 SRR5629569_1.fastq SRR5629569_2.fastq SRR5629570_1.fastq SRR5629570_2.fastq"
+\n
+	"p_pseudoaligned": 78.7,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5629577___SRR5629578 -b 30 --rf-stranded -t 30 SRR5629577_1.fastq SRR5629577_2.fastq SRR5629578_1.fastq SRR5629578_2.fastq"
+\n
+	"p_pseudoaligned": 76.0,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5629579___SRR5629580 -b 30 --rf-stranded -t 30 SRR5629579_1.fastq SRR5629579_2.fastq SRR5629580_1.fastq SRR5629580_2.fastq"
+\n
+	"p_pseudoaligned": 79.4,
+	"call": "kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR5629571___SRR5629572 -b 30 --rf-stranded -t 30 SRR5629571_1.fastq SRR5629571_2.fastq SRR5629572_1.fastq SRR5629572_2.fastq"
+\n

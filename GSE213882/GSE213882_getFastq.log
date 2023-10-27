@@ -1,0 +1,5 @@
+[1] "SRR21660898" "SRR21660897"
+[1] "SRR21660898"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR21660898.sra SRR21660898"
+[1] "SRR21660897"
+[1] "/opt/sratoolkit.2.10.8-ubuntu64/bin/prefetch -p -o SRR21660897.sra SRR21660897"

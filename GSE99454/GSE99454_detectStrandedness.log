@@ -1,0 +1,77 @@
+[detectStrandedness] input metadata:         run    study experiment    cell other replicate treament sample_acc
+1 SRR5629569 GSE99454 SRX2869870 ARPE-19    AO         1 Parental SRS2240212
+2 SRR5629570 GSE99454 SRX2869870 ARPE-19    AO         1 Parental SRS2240212
+3 SRR5629571 GSE99454 SRX2869871    MRC5    AO         2 Parental SRS2240213
+4 SRR5629572 GSE99454 SRX2869871    MRC5    AO         2 Parental SRS2240213
+5 SRR5629577 GSE99454 SRX2869874    MRC5    AO         1 Parental SRS2240216
+6 SRR5629578 GSE99454 SRX2869874    MRC5    AO         1 Parental SRS2240216
+7 SRR5629579 GSE99454 SRX2869875 ARPE-19    AO         2 Parental SRS2240217
+8 SRR5629580 GSE99454 SRX2869875 ARPE-19    AO         2 Parental SRS2240217
+                                                       title
+1 GSM2644285: ARPE-19 mock rep1 24hpi; Homo sapiens; RNA-Seq
+2 GSM2644285: ARPE-19 mock rep1 24hpi; Homo sapiens; RNA-Seq
+3   GSM2644286: MRC-5 mock rep2 24hpi; Homo sapiens; RNA-Seq
+4   GSM2644286: MRC-5 mock rep2 24hpi; Homo sapiens; RNA-Seq
+5   GSM2644289: MRC-5 mock rep1 24hpi; Homo sapiens; RNA-Seq
+6   GSM2644289: MRC-5 mock rep1 24hpi; Homo sapiens; RNA-Seq
+7 GSM2644290: ARPE-19 mock rep2 24hpi; Homo sapiens; RNA-Seq
+8 GSM2644290: ARPE-19 mock rep2 24hpi; Homo sapiens; RNA-Seq
+                                                                                                    sample_attribute
+1    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 1
+2    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 1
+3  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 2
+4  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 2
+5  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 1
+6  || source_name: embryonic lung || cell type: fibroblast || treatment: mock || replication: biological replicate 1
+7    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 2
+8    || source_name: adult retina || cell type: epithelial || treatment: mock || replication: biological replicate 2
+   spots            platform layout strategy       SRA     phred
+1 17.57M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+2 17.93M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+3 12.24M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+4 10.01M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+5 17.84M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+6 18.19M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+7 11.87M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+8  8.48M Illumina HiSeq 2500      P  RNA-Seq SRA567826 --phred33
+
+
+Determining strandedness of: SRR5629569 P --phred33
+
+Determining strandedness of: SRR5629570 P --phred33
+
+Determining strandedness of: SRR5629571 P --phred33
+
+Determining strandedness of: SRR5629572 P --phred33
+
+Determining strandedness of: SRR5629577 P --phred33
+
+Determining strandedness of: SRR5629578 P --phred33
+
+Determining strandedness of: SRR5629579 P --phred33
+
+Determining strandedness of: SRR5629580 P --phred33
+[1] "SRR5629569.SAMPLE.sam"
+[1] "SRR5629570.SAMPLE.sam"
+[1] "SRR5629571.SAMPLE.sam"
+[1] "SRR5629572.SAMPLE.sam"
+[1] "SRR5629577.SAMPLE.sam"
+[1] "SRR5629578.SAMPLE.sam"
+[1] "SRR5629579.SAMPLE.sam"
+[1] "SRR5629580.SAMPLE.sam"
+[infer_experiment.py]: SRR5629578 = paired-end; F = 0.0211, R = 0.9343
+[1] "[infer_experiment.py]: SRR5629578 --rna-strandness RF"
+[infer_experiment.py]: SRR5629572 = paired-end; F = 0.0085, R = 0.9455
+[1] "[infer_experiment.py]: SRR5629572 --rna-strandness RF"
+[infer_experiment.py]: SRR5629579 = paired-end; F = 0.0109, R = 0.9397
+[1] "[infer_experiment.py]: SRR5629579 --rna-strandness RF"
+[infer_experiment.py]: SRR5629577 = paired-end; F = 0.0206, R = 0.9355
+[1] "[infer_experiment.py]: SRR5629577 --rna-strandness RF"
+[infer_experiment.py]: SRR5629580 = paired-end; F = 0.0106, R = 0.9392
+[1] "[infer_experiment.py]: SRR5629580 --rna-strandness RF"
+[infer_experiment.py]: SRR5629571 = paired-end; F = 0.0097, R = 0.9457
+[1] "[infer_experiment.py]: SRR5629571 --rna-strandness RF"
+[infer_experiment.py]: SRR5629569 = paired-end; F = 0.0240, R = 0.9315
+[1] "[infer_experiment.py]: SRR5629569 --rna-strandness RF"
+[infer_experiment.py]: SRR5629570 = paired-end; F = 0.0229, R = 0.9315
+[1] "[infer_experiment.py]: SRR5629570 --rna-strandness RF"

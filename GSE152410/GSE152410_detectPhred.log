@@ -1,0 +1,50 @@
+      study         run experiment   cell other replicate treament sample_acc
+1 GSE152410 SRR12006109 SRX8539285 MCF10A   PBS         1  Control SRS6834102
+2 GSE152410 SRR12006110 SRX8539286 MCF10A   PBS         2  Control SRS6834103
+3 GSE152410 SRR12006111 SRX8539287 MCF10A   PBS         3  Control SRS6834104
+4 GSE152410 SRR12006112 SRX8539288 MCF10A   PBS         4  Control SRS6834105
+                                                  title
+1 GSM4614840: ctrl_0_C1_A_RNAseq; Homo sapiens; RNA-Seq
+2 GSM4614841: ctrl_0_C1_B_RNAseq; Homo sapiens; RNA-Seq
+3 GSM4614842: ctrl_0_C1_C_RNAseq; Homo sapiens; RNA-Seq
+4 GSM4614843: ctrl_0_C1_D_RNAseq; Homo sapiens; RNA-Seq
+                                                                                                                                                               sample_attribute
+1  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+2  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+3  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+4  || source_name: breast epilthelial cells || cell type: normal breast epithelium || cell line: MCF10A || treatment: PBS || treatment concentration: 0 ng/ml || timepoint: 0 h
+   spots            platform layout strategy        SRA
+1 57.58M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+2 58.89M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+3 62.49M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+4 64.19M Illumina HiSeq 2500      S  RNA-Seq SRA1086711
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 4, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 4, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 4, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 4, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 4, numResults: 4, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:71"
+[1] "guess: --phred33:35:71"
+[1] "guess: --phred33:35:71"
+[1] "guess: --phred33:35:71"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

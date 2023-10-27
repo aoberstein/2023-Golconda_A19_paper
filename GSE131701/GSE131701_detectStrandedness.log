@@ -1,0 +1,23 @@
+[detectStrandedness] input metadata:         run     study experiment   cell other replicate  treament sample_acc
+1 SRR9114344 GSE131701 SRX5888602 MCF10A    NA         1 sgControl SRS4810759
+2 SRR9114345 GSE131701 SRX5888603 MCF10A    NA         2 sgControl SRS4810760
+                                                title
+1 GSM3814228: 10a-control_rep1; Homo sapiens; RNA-Seq
+2 GSM3814229: 10a-control_rep2; Homo sapiens; RNA-Seq
+                                                                                                                                                                                 sample_attribute
+1  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+2  || source_name: mammary gland; breast epithelial || cell line: MCF10A || cell type: non-tumorigenic epithelial cell line || genotype/variation: non-targeted control sgRNA || passages: P6-P10
+   spots   platform layout strategy       SRA     phred
+1 22.49M BGISEQ-500      P  RNA-Seq SRA889904 --phred33
+2 22.75M BGISEQ-500      P  RNA-Seq SRA889904 --phred33
+
+
+Determining strandedness of: SRR9114344 P --phred33
+
+Determining strandedness of: SRR9114345 P --phred33
+[1] "SRR9114344.SAMPLE.sam"
+[1] "SRR9114345.SAMPLE.sam"
+[infer_experiment.py]: SRR9114345 = paired-end; F = 0.4864, R = 0.4773
+[1] "[infer_experiment.py]: SRR9114345 unstranded"
+[infer_experiment.py]: SRR9114344 = paired-end; F = 0.4766, R = 0.4856
+[1] "[infer_experiment.py]: SRR9114344 unstranded"

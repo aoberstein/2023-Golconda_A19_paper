@@ -1,0 +1,4 @@
+Counting SRR21010131 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21010131 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR21010131_1.fastqCounting SRR21010132 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21010132 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR21010132_1.fastqCounting SRR21010133 with kallisto
+kallisto quant -i /home/adam/projects/2020-08-16_HCMV_M5_A19_1315_non-canonical/1-RP_kallisto_database/vector_TB40-nonCanonical_TB40_gencode34.idx -o SRR21010133 --single -l 200 -s 20 -b 30 --rf-stranded -t 30   ./SRR21010133_1.fastq

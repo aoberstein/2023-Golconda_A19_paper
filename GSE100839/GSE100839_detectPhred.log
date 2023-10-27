@@ -1,0 +1,176 @@
+       study        run experiment    cell other replicate treament sample_acc
+1  GSE100839 SRR5807527 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+2  GSE100839 SRR5807528 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+3  GSE100839 SRR5807529 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+4  GSE100839 SRR5807530 SRX2986138 ARPE-19    NA         1 Parental SRS2338621
+5  GSE100839 SRR5807531 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+6  GSE100839 SRR5807532 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+7  GSE100839 SRR5807533 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+8  GSE100839 SRR5807534 SRX2986139 ARPE-19    NA         2 Parental SRS2338623
+9  GSE100839 SRR5807535 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+10 GSE100839 SRR5807536 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+11 GSE100839 SRR5807537 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+12 GSE100839 SRR5807538 SRX2986140 ARPE-19    NA         3 Parental SRS2338622
+                                      title
+1  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+2  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+3  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+4  GSM2694827: 1_24C; Homo sapiens; RNA-Seq
+5  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+6  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+7  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+8  GSM2694828: 2_24C; Homo sapiens; RNA-Seq
+9  GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+10 GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+11 GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+12 GSM2694829: 3_24C; Homo sapiens; RNA-Seq
+                                                                                                                  sample_attribute
+1   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+2   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+3   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+4   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+5   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+6   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+7   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+8   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+9   || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+10  || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+11  || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+12  || source_name: ARPE-19 cell || cell type: human retinal pigment epithelial cell line || cell line: ARPE-19 || infection: Mock
+    spots    platform layout strategy       SRA
+1  13.01M NextSeq 500      P  RNA-Seq SRA584250
+2  12.69M NextSeq 500      P  RNA-Seq SRA584250
+3  12.74M NextSeq 500      P  RNA-Seq SRA584250
+4  12.67M NextSeq 500      P  RNA-Seq SRA584250
+5  10.09M NextSeq 500      P  RNA-Seq SRA584250
+6   9.87M NextSeq 500      P  RNA-Seq SRA584250
+7   9.89M NextSeq 500      P  RNA-Seq SRA584250
+8   9.86M NextSeq 500      P  RNA-Seq SRA584250
+9  11.78M NextSeq 500      P  RNA-Seq SRA584250
+10 11.62M NextSeq 500      P  RNA-Seq SRA584250
+11 11.57M NextSeq 500      P  RNA-Seq SRA584250
+12 11.62M NextSeq 500      P  RNA-Seq SRA584250
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 24, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 24, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 24, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 24, numResults: 3, stopped: TRUE
+returning status FALSE
+got results for task 4
+numValues: 24, numResults: 4, stopped: TRUE
+returning status FALSE
+got results for task 5
+numValues: 24, numResults: 5, stopped: TRUE
+returning status FALSE
+got results for task 6
+numValues: 24, numResults: 6, stopped: TRUE
+returning status FALSE
+got results for task 7
+numValues: 24, numResults: 7, stopped: TRUE
+returning status FALSE
+got results for task 8
+numValues: 24, numResults: 8, stopped: TRUE
+returning status FALSE
+got results for task 9
+numValues: 24, numResults: 9, stopped: TRUE
+returning status FALSE
+got results for task 10
+numValues: 24, numResults: 10, stopped: TRUE
+returning status FALSE
+got results for task 11
+numValues: 24, numResults: 11, stopped: TRUE
+returning status FALSE
+got results for task 12
+numValues: 24, numResults: 12, stopped: TRUE
+returning status FALSE
+got results for task 13
+numValues: 24, numResults: 13, stopped: TRUE
+returning status FALSE
+got results for task 14
+numValues: 24, numResults: 14, stopped: TRUE
+returning status FALSE
+got results for task 15
+numValues: 24, numResults: 15, stopped: TRUE
+returning status FALSE
+got results for task 16
+numValues: 24, numResults: 16, stopped: TRUE
+returning status FALSE
+got results for task 17
+numValues: 24, numResults: 17, stopped: TRUE
+returning status FALSE
+got results for task 18
+numValues: 24, numResults: 18, stopped: TRUE
+returning status FALSE
+got results for task 19
+numValues: 24, numResults: 19, stopped: TRUE
+returning status FALSE
+got results for task 20
+numValues: 24, numResults: 20, stopped: TRUE
+returning status FALSE
+got results for task 21
+numValues: 24, numResults: 21, stopped: TRUE
+returning status FALSE
+got results for task 22
+numValues: 24, numResults: 22, stopped: TRUE
+returning status FALSE
+got results for task 23
+numValues: 24, numResults: 23, stopped: TRUE
+returning status FALSE
+got results for task 24
+numValues: 24, numResults: 24, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3, result.4, result.5, 
+    result.6, result.7, result.8, result.9, result.10, result.11, 
+    result.12, result.13, result.14, result.15, result.16, result.17, 
+    result.18, result.19, result.20, result.21, result.22, result.23, 
+    result.24)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:35"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:35"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:54:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:47:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:65"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:47:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:47:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:35"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:54:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:47:69"
+ [1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [3] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [5] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [7] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+ [9] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[11] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[13] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[15] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[17] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[19] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[21] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[23] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+

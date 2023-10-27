@@ -1,0 +1,42 @@
+      study        run experiment   cell other replicate treament sample_acc
+1 GSE121022 SRR7988022 SRX4819712 RWPE-1    NA         1 Parental SRS3894250
+2 GSE121022 SRR7988024 SRX4819713 RWPE-1    NA         2 Parental SRS3894251
+3 GSE121022 SRR7988026 SRX4819714 RWPE-1    NA         3 Parental SRS3894252
+                                           title
+1 GSM3424013: RWPE-1_rep1; Homo sapiens; RNA-Seq
+2 GSM3424014: RWPE-1_rep2; Homo sapiens; RNA-Seq
+3 GSM3424015: RWPE-1_rep3; Homo sapiens; RNA-Seq
+                                                                                                                                                                                      sample_attribute
+1  || source_name: RWPE-1 (ATCC number:CRL-11609) || cell line: RWPE-1 || replicate: 1 || cell type: Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate
+2  || source_name: RWPE-1 (ATCC number:CRL-11609) || cell line: RWPE-1 || replicate: 2 || cell type: Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate
+3  || source_name: RWPE-1 (ATCC number:CRL-11609) || cell line: RWPE-1 || replicate: 3 || cell type: Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate
+   spots    platform layout strategy       SRA
+1  1.23M NextSeq 500      S  RNA-Seq SRA791070
+2 43.78M NextSeq 500      S  RNA-Seq SRA791070
+3 117.6M NextSeq 500      S  RNA-Seq SRA791070
+
+
+[1] "[detectPhred] Successfully imported metadata:"
+numValues: 3, numResults: 0, stopped: TRUE
+got results for task 1
+numValues: 3, numResults: 1, stopped: TRUE
+returning status FALSE
+got results for task 2
+numValues: 3, numResults: 2, stopped: TRUE
+returning status FALSE
+got results for task 3
+numValues: 3, numResults: 3, stopped: TRUE
+calling combine function
+evaluating call object to combine results:
+  fun(accum, result.1, result.2, result.3)
+returning status TRUE
+[1] "[detectPhred] ShortRead sampling completed"
+[1] "[detectPhred] BEGIN PHRED DETECTION"
+[1] "guess: --phred33:47:69"
+[1] "guess: --phred33:35:69"
+[1] "guess: --phred33:35:69"
+[1] "[detectPhred] phreds: --phred33" "[detectPhred] phreds: --phred33"
+[3] "[detectPhred] phreds: --phred33"
+[1] "[detectPhred] Phred detection complete"
+
+
